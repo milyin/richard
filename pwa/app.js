@@ -1,16 +1,19 @@
 const list = document.querySelector("#lineList");
 const template = document.querySelector("#lineTemplate");
 const appHeader = document.querySelector(".app-header");
+const versionBadge = document.querySelector("#versionBadge");
 const searchInput = document.querySelector("#searchInput");
 const collapseButton = document.querySelector("#collapseButton");
 const installButton = document.querySelector("#installButton");
 
+const APP_VERSION = "v3";
 let allLines = [];
 let installPrompt = null;
-let lastScrollY = window.scrollY;
+let lastScrollY = getScrollY();
 let ticking = false;
 
 const normalize = (value) => value.toLocaleLowerCase("ru-RU");
+versionBadge.textContent = APP_VERSION;
 
 function render(lines) {
   list.replaceChildren();
@@ -66,17 +69,30 @@ function filterLines() {
   );
 }
 
-function updateHeaderVisibility() {
-  const currentScrollY = window.scrollY;
-  const isScrollingDown = currentScrollY > lastScrollY;
-  const movedEnough = Math.abs(currentScrollY - lastScrollY) > 6;
+function getScrollY() {
+  return window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+}
 
-  if (currentScrollY <= 24) {
+function setHeaderHeight() {
+  const height = Math.ceil(appHeader.getBoundingClientRect().height);
+  document.documentElement.style.setProperty("--header-height", `${height}px`);
+}
+
+function updateHeaderVisibility() {
+  const currentScrollY = getScrollY();
+  const isScrollingDown = currentScrollY > lastScrollY;
+  const movedEnough = Math.abs(currentScrollY - lastScrollY) > 3;
+  const shouldPinOpen = currentScrollY <= 24 || document.activeElement === searchInput;
+
+  if (shouldPinOpen) {
     appHeader.classList.remove("app-header-hidden");
+    document.body.classList.remove("header-hidden");
   } else if (movedEnough && isScrollingDown) {
     appHeader.classList.add("app-header-hidden");
+    document.body.classList.add("header-hidden");
   } else if (movedEnough) {
     appHeader.classList.remove("app-header-hidden");
+    document.body.classList.remove("header-hidden");
   }
 
   lastScrollY = currentScrollY;
@@ -101,7 +117,11 @@ async function init() {
 }
 
 searchInput.addEventListener("input", filterLines);
+setHeaderHeight();
+window.addEventListener("resize", setHeaderHeight);
+window.visualViewport?.addEventListener("resize", setHeaderHeight);
 window.addEventListener("scroll", handleScroll, { passive: true });
+document.addEventListener("scroll", handleScroll, { passive: true });
 
 collapseButton.addEventListener("click", () => {
   for (const card of list.querySelectorAll(".line-card.expanded")) {
