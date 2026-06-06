@@ -1,11 +1,14 @@
 const list = document.querySelector("#lineList");
 const template = document.querySelector("#lineTemplate");
+const appHeader = document.querySelector(".app-header");
 const searchInput = document.querySelector("#searchInput");
 const collapseButton = document.querySelector("#collapseButton");
 const installButton = document.querySelector("#installButton");
 
 let allLines = [];
 let installPrompt = null;
+let lastScrollY = window.scrollY;
+let ticking = false;
 
 const normalize = (value) => value.toLocaleLowerCase("ru-RU");
 
@@ -63,6 +66,29 @@ function filterLines() {
   );
 }
 
+function updateHeaderVisibility() {
+  const currentScrollY = window.scrollY;
+  const isScrollingDown = currentScrollY > lastScrollY;
+  const movedEnough = Math.abs(currentScrollY - lastScrollY) > 6;
+
+  if (currentScrollY <= 24) {
+    appHeader.classList.remove("app-header-hidden");
+  } else if (movedEnough && isScrollingDown) {
+    appHeader.classList.add("app-header-hidden");
+  } else if (movedEnough) {
+    appHeader.classList.remove("app-header-hidden");
+  }
+
+  lastScrollY = currentScrollY;
+  ticking = false;
+}
+
+function handleScroll() {
+  if (ticking) return;
+  window.requestAnimationFrame(updateHeaderVisibility);
+  ticking = true;
+}
+
 async function init() {
   const response = await fetch("data.json");
   if (!response.ok) {
@@ -75,6 +101,7 @@ async function init() {
 }
 
 searchInput.addEventListener("input", filterLines);
+window.addEventListener("scroll", handleScroll, { passive: true });
 
 collapseButton.addEventListener("click", () => {
   for (const card of list.querySelectorAll(".line-card.expanded")) {

@@ -34,6 +34,13 @@ body {
   background: rgba(17, 24, 39, 0.96);
   color: white;
   box-shadow: 0 8px 24px rgba(17, 24, 39, 0.18);
+  transform: translateY(0);
+  transition: transform 180ms ease;
+  will-change: transform;
+}
+
+.app-header-hidden {
+  transform: translateY(-105%);
 }
 
 .eyebrow {
