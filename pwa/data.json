@@ -1,0 +1,3669 @@
+{
+  "title": "RICHARD",
+  "lines": [
+    {
+      "id": 1,
+      "speaker": "",
+      "french": "RICHARD",
+      "russian": "РИШАР",
+      "note": "",
+      "kind": "title"
+    },
+    {
+      "id": 2,
+      "speaker": "",
+      "french": "Aurélie, Léo, Eliott, Jeanne, Egveniia, Romane, Léa, Théo, Emilie",
+      "russian": "Орели, Лео, Элиотт, Жанна, Егвения, Роман, Леа, Тео, Эмили",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 3,
+      "speaker": "Moon",
+      "french": "Jeanne",
+      "russian": "Жанна",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 4,
+      "speaker": "Raph",
+      "french": "Eliott",
+      "russian": "Элиотт",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 5,
+      "speaker": "Tom",
+      "french": "Léo",
+      "russian": "Лео",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 6,
+      "speaker": "Ria",
+      "french": "Aurélie",
+      "russian": "Орели",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 7,
+      "speaker": "Stan",
+      "french": "Théo",
+      "russian": "Тео",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 8,
+      "speaker": "Gwen",
+      "french": "Romane",
+      "russian": "Роман",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 9,
+      "speaker": "Liz",
+      "french": "Léa",
+      "russian": "Леа",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 10,
+      "speaker": "Vay",
+      "french": "Evgennia",
+      "russian": "Евгения",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 11,
+      "speaker": "Khal",
+      "french": "Emilie",
+      "russian": "Эмили",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 12,
+      "speaker": "",
+      "french": "1 – La Verbeira",
+      "russian": "1 – Вербейра",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 13,
+      "speaker": "",
+      "french": "Tous",
+      "russian": "Все",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 14,
+      "speaker": "Jeanne/Moon",
+      "french": "Le cousin de Richard, tu vois ?",
+      "russian": "Двоюродный брат Ришара, понимаешь?",
+      "note": "« tu vois ? » est une relance orale de connivence, plus qu’une vraie question. « понимаешь? » garde ce ton de conversation et d’insistance familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 15,
+      "speaker": "Eliott/Raph",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 16,
+      "speaker": "Jeanne/Moon",
+      "french": "Tu vois qui ?",
+      "russian": "Понимаешь, кто?",
+      "note": "« Tu vois qui ? » répète la formule orale pour vérifier que l’autre situe la personne. « Понимаешь, кто? » conserve cette hésitation familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 17,
+      "speaker": "Léo/Tom",
+      "french": "Oui",
+      "russian": "Да.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 18,
+      "speaker": "Jeanne/Moon",
+      "french": "Il vient d’acheter une Verbeira !",
+      "russian": "Он только что купил Вербейру!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 19,
+      "speaker": "Aurélie/ Ria",
+      "french": "Il n’a même pas son permis.",
+      "russian": "У него даже прав нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 20,
+      "speaker": "Jeanne/Moon",
+      "french": "Il vient de l’avoir.",
+      "russian": "Только что получил.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 21,
+      "speaker": "Romane/Gwen",
+      "french": "Sa Verbeira ?",
+      "russian": "Свою Вербейру?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 22,
+      "speaker": "Jeanne/Moon",
+      "french": "Aussi.",
+      "russian": "Тоже.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 23,
+      "speaker": "Théo/Stan",
+      "french": "Je demande à voir.",
+      "russian": "Хотел бы я на это посмотреть.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 24,
+      "speaker": "Evgéniia/Vay",
+      "french": "La dernière ? Avec des phares à diodes laser plus.",
+      "russian": "Последнюю? С фарами на лазерных диодах плюс.",
+      "note": "« phares à diodes laser plus » sonne comme un jargon technique ostentatoire de voiture de luxe. « фары на лазерных диодах плюс » garde l’effet brillant et un peu ridicule.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 25,
+      "speaker": "Léa/Liz",
+      "french": "Pourquoi tu dis « à djodes » ? On dit « à di-odes ».",
+      "russian": "Почему ты говоришь «дйодах»? Надо «ди-одах».",
+      "note": "le comique porte sur « diodes », mal prononcé « djodes » puis corrigé en « di-odes ». « дйодах / ди-одах » reproduit ce jeu de prononciation.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 26,
+      "speaker": "Evgeniia/Vay",
+      "french": "Liz, va moisir !",
+      "russian": "Лиз, сгни уже!",
+      "note": "« va moisir ! » est une insulte familière, littéralement « va pourrir ». « сгни уже! » rend l’agressivité adolescente et l’image de pourriture.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 27,
+      "speaker": "Khal/Emilie",
+      "french": "Il va frimer à s’en faire exploser les artères, vous allez voir.",
+      "russian": "Он будет выпендриваться так, что у него артерии лопнут, вот увидите.",
+      "note": "« frimer » signifie se vanter, faire le malin, exhiber sa réussite. « выпендриваться » transmet cette ostentation sociale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 28,
+      "speaker": "Aurélie/Ria",
+      "french": "En même temps, tu ne frimerais pas, toi, avec des phares à diodes laser plus ?",
+      "russian": "Ну да, а ты бы не выпендривалась с фарами на лазерных диодах плюс?",
+      "note": "« frimerais » reprend l’idée de se pavaner avec les « phares à diodes laser plus ». « выпендривалась » garde le ton moqueur.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 29,
+      "speaker": "Eliott/Raph",
+      "french": "Moi, je te dis, au volant d’une Verbeira, tu as toujours un abruti content de lui.",
+      "russian": "А я тебе говорю: за рулем Вербейры всегда сидит самодовольный идиот.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 30,
+      "speaker": "Tom/Léo",
+      "french": "Alors je veux bien devenir un abruti !",
+      "russian": "Тогда я согласен стать идиотом!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 31,
+      "speaker": "Jeanne/Moon",
+      "french": "Sois confiant, Tom, tu es bien parti.",
+      "russian": "Будь уверен, Том, ты уже на верном пути.",
+      "note": "« tu es bien parti » est ironique : Tom est déjà sur la bonne voie pour être un « abruti ». « ты уже на верном пути » garde cette pique.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 32,
+      "speaker": "Léo/Tom",
+      "french": "Moi, je vais peut-être partir en mécanique auto. Enfin, peut-être…",
+      "russian": "Я, может, пойду в автомеханику. Ну, может быть…",
+      "note": "« mécanique auto » désigne une orientation professionnelle manuelle, liée au garage. « автомеханика » garde ce registre concret.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 33,
+      "speaker": "Romane/Gwen",
+      "french": "Tu sais, le cousin de Richard, il a une Verbeira sans avoir jamais mis les mains dans le cambouis.",
+      "russian": "Знаешь, двоюродный брат Ришара взял Вербейру, ни разу не запачкав руки в масле.",
+      "note": "« mettre les mains dans le cambouis » veut dire faire soi-même le sale travail mécanique. « запачкав руки в масле » rend l’image concrète.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 34,
+      "speaker": "Léa/Liz",
+      "french": "Et puis c’est crevant, tout tortillé sous le cul des voitures. Moi je n’irais pas non plus.",
+      "russian": "И потом, это выматывает — весь скрюченный под задницей машин. Я бы тоже не пошла.",
+      "note": "« crevant » est familier pour « très fatigant ». « выматывает » garde l’idée d’un travail épuisant.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 35,
+      "speaker": "Léo/Tom",
+      "french": "Tu seras un larbin de mecs à grosses caisses.",
+      "russian": "Будешь холуем у мужиков с крутыми тачками.",
+      "note": "« larbin » rabaisse l’ouvrier à un serviteur ; « grosses caisses » désigne familièrement des voitures luxueuses. « холуй » et « крутые тачки » gardent le mépris social.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 36,
+      "speaker": "Léa/Liz",
+      "french": "Ben c’est vrai qu’il vaut mieux être carrément un mec à grosse caisse. Tant qu’à faire.",
+      "russian": "Ну да, лучше уж самому быть мужиком с крутой тачкой. Раз уж на то пошло.",
+      "note": "« grosse caisse » reste l’image de la belle voiture ; « tant qu’à faire » signifie « quitte à choisir ». « крутая тачка » et « раз уж на то пошло » rendent l’ironie.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 37,
+      "speaker": "",
+      "french": "Ils rient tous sauf Ria. Tom sort vexé, Stan le suit. Ria",
+      "russian": "Все смеются, кроме Рии. Том уходит обиженный, Стэн идет за ним. Рия",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 38,
+      "speaker": "Gwen/Romane",
+      "french": "Vous vous emballez vite, quand même. La Verbeira c’est pas le top. On fait mieux.",
+      "russian": "Вы все-таки быстро заводитесь. Вербейра — не предел мечтаний. Есть и лучше.",
+      "note": "« vous vous emballez » signifie que les autres s’excitent ou s’enthousiasment trop vite. « быстро заводитесь » conserve l’image familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 39,
+      "speaker": "Emilie/Khal",
+      "french": "Tu ne peux pas dire, à 18 ans, c’est la classe.",
+      "russian": "Не скажи, в восемнадцать лет это шик.",
+      "note": "« c’est la classe » veut dire que cela donne du prestige, surtout à 18 ans. « это шик » garde l’idée d’élégance enviable.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 40,
+      "speaker": "Eliott/Raph",
+      "french": "Elle doit être d’occase.",
+      "russian": "Она, наверное, подержанная.",
+      "note": "« d’occase » est familier pour « d’occasion », donc pas neuve. « подержанная » explicite le sens.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 41,
+      "speaker": "Jeanne/Moon",
+      "french": "Je crois qu’elle est neuve.",
+      "russian": "По-моему, новая.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 42,
+      "speaker": "Evgeniia/Vay",
+      "french": "Avec des phares à diodes laser plus !",
+      "russian": "С фарами на лазерных диодах плюс!",
+      "note": "la reprise de « phares à diodes laser plus » imite un argument publicitaire fascinant. « фары на лазерных диодах плюс » garde ce refrain technique.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 43,
+      "speaker": "Ria/Aurélie",
+      "french": "Si elle a des phares à diodes laser plus…",
+      "russian": "Если у нее фары на лазерных диодах плюс…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 44,
+      "speaker": "Khal/Emilie",
+      "french": "C’est possible, ça ?",
+      "russian": "Разве такое бывает?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 45,
+      "speaker": "Romane/Gwen",
+      "french": "Faut croire.",
+      "russian": "Похоже, да.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 46,
+      "speaker": "Léa/Liz",
+      "french": "Moi je veux bien y croire",
+      "russian": "Я вполне готова в это поверить.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 47,
+      "speaker": "Ria/Aurélie",
+      "french": "Comme au Père Noël… Moon, faut toujours que tu la ramènes, et puis qu’est-ce qu’on s’en fout du cousin de Richard ! Qu’est-ce qu’on s’en fout de sa bagnole ? Y a que ça qui te fait rêver ? Pathétique !",
+      "russian": "Как в Деда Мороза… Мун, тебе всегда надо вставить свои пять копеек, да и плевать нам на двоюродного брата Ришара! Плевать нам на его тачку! Только это и заставляет тебя мечтать? Жалко!",
+      "note": "« la ramener » signifie parler trop ou intervenir sans cesse ; « bagnole » est familier pour voiture. « вставить свои пять копеек » et « тачка » gardent le ton populaire.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 48,
+      "speaker": "",
+      "french": "Elle prend un livre et s’isole. Gwen et Khal se retrouvent et regardent sur leur téléphone à l’écart.",
+      "russian": "Она берет книгу и уединяется. Гвен и Каль отходят в сторону и смотрят в свой телефон.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 49,
+      "speaker": "",
+      "french": "MUSIQUE",
+      "russian": "МУЗЫКА",
+      "note": "",
+      "kind": "title"
+    },
+    {
+      "id": 50,
+      "speaker": "",
+      "french": "Moon/Raph/Stan",
+      "russian": "Мун/Раф/Стэн",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 51,
+      "speaker": "Moon",
+      "french": "Pourquoi elle me cherche, Ria ? Qu’est-ce que je lui ai fait ? Qu’est-ce que j’y peux si le cousin de Richard vient d’avoir une Verbeira ?",
+      "russian": "Почему Рия ко мне цепляется? Что я ей сделала? Что я могу поделать, если двоюродный брат Ришара только что получил Вербейру?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 52,
+      "speaker": "Raph",
+      "french": "Quand tu n’as pas d’argent, tu te débrouilles pour en avoir et quand tu en as, tu le dépenses. Normal, non ?",
+      "russian": "Когда у тебя нет денег, ты выкручиваешься, чтобы их раздобыть, а когда они есть — тратишь. Нормально, нет?",
+      "note": "« se débrouiller » signifie trouver une solution par ses propres moyens, parfois en bricolant. « выкручиваешься » transmet cette débrouillardise.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 53,
+      "speaker": "Moon",
+      "french": "Logique. Pourquoi elle s’énerve comme ça sur moi ? Pourquoi elle n’admet pas que elle aussi ça la fait rêver ?",
+      "russian": "Логично. Почему она так на меня злится? Почему не признает, что ее саму это тоже заводит мечтать?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 54,
+      "speaker": "Raph",
+      "french": "Avant, avec Ria, on n’avait même pas besoin de parler pour se comprendre. Potes, à la vie à la mort. On se regardait, ça suffisait. Mais depuis… Depuis quelques temps, c’est différent.",
+      "russian": "Раньше с Рией нам даже говорить не надо было, чтобы понять друг друга. Друзья — не разлей вода, до гроба. Посмотрели друг на друга — и хватит. Но с тех пор… В последнее время всё иначе.",
+      "note": "« potes, à la vie à la mort » désigne une amitié très forte et adolescente. « друзья — не разлей вода, до гроба » rend cette intensité.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 55,
+      "speaker": "Moon",
+      "french": "Oui, c’est vrai. Moi, je me regarde en face, ça ne me gêne pas de reconnaitre que j’ai des envies dans la vie. C’est normal de vouloir une belle maison, une belle bagnole, une belle famille. Non ?",
+      "russian": "Да, правда. Я смотрю себе в лицо, мне не стыдно признать, что у меня есть желания в жизни. Нормально хотеть красивый дом, красивую тачку, красивую семью. Нет?",
+      "note": "« bagnole » est un mot familier pour « voiture », ici associé aux rêves matériels. « тачка » garde ce registre relâché.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 56,
+      "speaker": "Raph",
+      "french": "Ben si.  Il faut des buts dans la vie. Je ne sais pas. Je ne comprends pas.",
+      "russian": "Ну да. В жизни нужны цели. Не знаю. Не понимаю.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 57,
+      "speaker": "Moon",
+      "french": "Ria, son but, je crois, c’est d’être prof, ou journaliste, ou quelque chose du genre. Moon et Raph : Chacun ses goûts. C’est tout.",
+      "russian": "У Рии цель, по-моему, стать училкой, или журналисткой, или чем-то вроде того. Мун и Раф : У каждого свои вкусы. И всё.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 58,
+      "speaker": "Moon",
+      "french": "Moi, en tout cas, je trouve que le cousin de Richard a bien raison de profiter de ce qu’il a.  C’est normal. Pouvoir flamber, une fois, au moins une fois, et sentir tous les regards posés sur toi …",
+      "russian": "А я, во всяком случае, считаю, что двоюродный брат Ришара правильно делает: пользуется тем, что у него есть. Это нормально. Хоть раз пустить пыль в глаза, хотя бы раз, и чувствовать, как все взгляды на тебе…",
+      "note": "« flamber » signifie exhiber son argent ou sa réussite pour attirer les regards. « пустить пыль в глаза » rend cette démonstration ostentatoire.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 59,
+      "speaker": "Raph",
+      "french": "Prof… Elle est intelligente, pourtant, Ria. Un puits de connaissance, cette fille. Mais je ne sais pas, elle s’obstine. Avant on se regardait,",
+      "russian": "Училкой… А ведь Рия умная. Кладезь знаний, эта девчонка. Но не знаю, она уперлась. Раньше мы смотрели друг на друга,",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 60,
+      "speaker": "Moon",
+      "french": "ça suffisait.",
+      "russian": "и этого хватало.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 61,
+      "speaker": "Raph",
+      "french": "Mais le vide, là, ça stresse. Au lieu de se marrer, de tchatcher, du vide et encore du vide. Mais elle ne voit rien. Même mon vide, elle ne le voit plus.",
+      "russian": "А теперь пустота, вот это напрягает. Вместо того чтобы ржать, трепаться, пустота и снова пустота. А она ничего не видит. Даже моей пустоты больше не видит.",
+      "note": "« se marrer » veut dire rire, « tchatcher » bavarder beaucoup ; les deux sont familiers. « ржать » et « трепаться » gardent l’énergie orale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 62,
+      "speaker": "",
+      "french": "Liz reste à jouer de la guitare et Vay écoute de la musique sous son casque. Entre Stan qui vient la rejoindre",
+      "russian": "Лиз остается играть на гитаре, а Вэй слушает музыку в наушниках. Входит Стэн и подходит к ней.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 63,
+      "speaker": "",
+      "french": "2 - Costard",
+      "russian": "2 - Костюм",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 64,
+      "speaker": "",
+      "french": "Gwen, Stan",
+      "russian": "Гвен, Стэн",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 65,
+      "speaker": "Gwen",
+      "french": "Le cousin de Richard, tu vois ?",
+      "russian": "Двоюродный брат Ришара, понимаешь?",
+      "note": "« tu vois ? » fonctionne comme une accroche orale répétée dans la pièce. « понимаешь? » garde ce tic de conversation.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 66,
+      "speaker": "Stan",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 67,
+      "speaker": "Gwen",
+      "french": "Tu vois qui ?",
+      "russian": "Понимаешь, кто?",
+      "note": "« Tu vois qui ? » relance l’interlocuteur pour identifier le cousin. « Понимаешь, кто? » garde la même formule familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 68,
+      "speaker": "Stan",
+      "french": "Qui roule en Verbeira ?",
+      "russian": "Который ездит на Вербейре?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 69,
+      "speaker": "Gwen",
+      "french": "Oui, maintenant, il est toujours en costard.",
+      "russian": "Да, теперь он всегда в костюме.",
+      "note": "« costard » est familier pour « costume », avec une nuance sociale de tenue chic. « костюм » donne le sens ; le registre familier est porté par le contexte.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 70,
+      "speaker": "Stan",
+      "french": "Tu es prête, on y va ?",
+      "russian": "Ты готова, пойдем?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 71,
+      "speaker": "Gwen",
+      "french": "Tu n’avais pas autre chose à te mettre ?",
+      "russian": "Тебе больше нечего было надеть?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 72,
+      "speaker": "Stan",
+      "french": "Non. On y va ?",
+      "russian": "Нет. Пойдем?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 73,
+      "speaker": "Gwen",
+      "french": "C’est la couleur aussi.",
+      "russian": "И цвет тоже.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 74,
+      "speaker": "Stan",
+      "french": "Sans doute.",
+      "russian": "Наверное.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 75,
+      "speaker": "Gwen",
+      "french": "Surtout avec le pantalon.",
+      "russian": "Особенно с брюками.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 76,
+      "speaker": "Stan",
+      "french": "Il faut changer quoi ? Le pantalon ou les chaussures ?",
+      "russian": "Что менять? Брюки или обувь?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 77,
+      "speaker": "Gwen",
+      "french": "Je n’en sais rien, c’est tout. L’allure globale.",
+      "russian": "Не знаю, просто всё. Общий вид.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 78,
+      "speaker": "Stan",
+      "french": "L’allure globale…",
+      "russian": "Общий вид…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 79,
+      "speaker": "Gwen",
+      "french": "Oui, je ne sais pas, tout, ça cloche, tout, XXL, la capuche, le délavé. Tout, quoi.",
+      "russian": "Да, не знаю, всё не так: XXL, капюшон, потертости. Всё, короче.",
+      "note": "« ça cloche » veut dire que quelque chose ne va pas, sans préciser quoi. « всё не так » garde ce jugement vague.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 80,
+      "speaker": "Stan",
+      "french": "Tout moi, quoi.",
+      "russian": "То есть весь я.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 81,
+      "speaker": "Gwen",
+      "french": "Mais non mais… Tu ne cherches pas à t’arranger en fait.",
+      "russian": "Да нет, но… Ты на самом деле и не пытаешься выглядеть лучше.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 82,
+      "speaker": "Stan",
+      "french": "Non.",
+      "russian": "Нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 83,
+      "speaker": "Gwen",
+      "french": "Moi je fais des trucs. Je me maquille. Pour le réveillon, je mets une robe.",
+      "russian": "Я что-то делаю. Крашусь. На новогоднюю вечеринку надеваю платье.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 84,
+      "speaker": "Stan",
+      "french": "Tu veux que je mette une robe ?",
+      "russian": "Хочешь, чтобы я надел платье?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 85,
+      "speaker": "Gwen",
+      "french": "Tu n’avais pas une chemise au moins ?",
+      "russian": "У тебя хотя бы рубашки не было?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 86,
+      "speaker": "Stan",
+      "french": "Tu n’aimes pas quand je mets une chemise !",
+      "russian": "Тебе не нравится, когда я надеваю рубашку!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 87,
+      "speaker": "Gwen",
+      "french": "Ca dépend une chemise comment.",
+      "russian": "Смотря какую рубашку.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 88,
+      "speaker": "Stan",
+      "french": "Comment ?",
+      "russian": "Какую?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 89,
+      "speaker": "Gwen",
+      "french": "N’empêche, ça amincit.",
+      "russian": "Всё равно она стройнит.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 90,
+      "speaker": "Stan",
+      "french": "…",
+      "russian": "…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 91,
+      "speaker": "Gwen",
+      "french": "Et puis ça fait plus… Plus smart !",
+      "russian": "И потом, это выглядит более… более смарт!",
+      "note": "« smart » est un anglicisme mondain : élégant, chic, bien présenté. « смарт » garde l’emprunt et l’effet de mode.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 92,
+      "speaker": "Stan",
+      "french": "…",
+      "russian": "…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 93,
+      "speaker": "Gwen",
+      "french": "Tes cheveux ?",
+      "russian": "Твои волосы?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 94,
+      "speaker": "Stan",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 95,
+      "speaker": "Gwen",
+      "french": "C’est bizarre, ils font un peu… un peu comme une perruque. Tu vois ce que je veux dire ?",
+      "russian": "Странно, они немного как… немного как парик. Понимаешь, о чем я?",
+      "note": "« tu vois ce que je veux dire ? » adoucit une critique gênante. « понимаешь, о чем я? » garde cette fausse précaution.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 96,
+      "speaker": "Stan",
+      "french": "Non.",
+      "russian": "Нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 97,
+      "speaker": "Gwen",
+      "french": "Même tes dents. Elles sont toujours… Enfin je veux dire… Jamais vraiment…",
+      "russian": "Даже зубы. Они у тебя всегда… Ну, я хочу сказать… Никогда по-настоящему…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 98,
+      "speaker": "Stan",
+      "french": "…",
+      "russian": "…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 99,
+      "speaker": "Gwen",
+      "french": "Pourquoi tu me regardes comme ça ?",
+      "russian": "Почему ты на меня так смотришь?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 100,
+      "speaker": "Stan",
+      "french": "Et toi, tu me regardes comment ?",
+      "russian": "А ты на меня как смотришь?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 101,
+      "speaker": "Gwen",
+      "french": "Je ne sais plus, Stan. Je ne sais plus.",
+      "russian": "Я уже не знаю, Стэн. Уже не знаю.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 102,
+      "speaker": "",
+      "french": "(Stan sort et va se mettre sur le bord de scène haute)",
+      "russian": "(Стэн выходит и становится у края высокой сцены)",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 103,
+      "speaker": "",
+      "french": "Attends ! Mais attends, tu vas où ?",
+      "russian": "Подожди! Да подожди, ты куда?",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 104,
+      "speaker": "",
+      "french": "Gwen et Khal",
+      "russian": "Гвен и Каль",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 105,
+      "speaker": "Gwen qui a rejoint Khal",
+      "french": "Il est susceptible en plus. Les sacs-poubelles, moi c’est pas mon truc. Pas ma faute quand même. J’ai toujours trouvé ça beau, un mec en costard.",
+      "russian": "Он еще и обидчивый. Мешки для мусора — это не мое. Не моя же вина. Я всегда находила красивым парня в костюме.",
+      "note": "« susceptible » veut dire facilement vexé ; « sacs-poubelles » méprise ses vêtements informes ; « costard » renvoie au costume chic. « обидчивый », « мешки для мусора » et « костюм » rendent ces nuances.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 106,
+      "speaker": "Khal",
+      "french": "Comme le cousin de Richard.",
+      "russian": "Как двоюродный брат Ришара.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 107,
+      "speaker": "Gwen",
+      "french": "Je suis sûre que pour un réveillon, lui, il sortirait cash le grand jeu, smoking, cravate. Elégant quoi.",
+      "russian": "Уверена, что на новогоднюю вечеринку он бы сразу выложился по полной: смокинг, галстук. Элегантно, короче.",
+      "note": "« cash » signifie ici « directement, sans hésiter » ; « sortir le grand jeu » veut dire faire de grands efforts pour impressionner. « сразу выложился по полной » rend l’effet spectaculaire.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 108,
+      "speaker": "Khal",
+      "french": "Moi je dis, l’élégance ça s’apprend. Le cousin de Richard, il n’était pas comme ça avant.",
+      "russian": "Я говорю: элегантности учатся. Двоюродный брат Ришара раньше таким не был.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 109,
+      "speaker": "Gwen",
+      "french": "Eh ben moi, je dis, ça doit faire plaisir. On doit se sentir bien avec un mec qui a la classe. Je ne dis pas qu’il faut forcément la Verbeira, hein, ne me fais pas dire ce que je n’ai pas dit. Mais un ‘tite classe. L’air de rien, comme ça, l’air qu’on vous regarde, vous et pas une autre et qu’on se dit, ils vont bien ensemble.",
+      "russian": "А я говорю, это должно быть приятно. Должно быть хорошо рядом с парнем, у которого есть класс. Я не говорю, что обязательно нужна Вербейра, не перевирай мои слова. Но хоть капелька класса. Так, вроде между делом: будто на вас смотрят, на вас, а не на другую, и думают — они хорошо смотрятся вместе.",
+      "note": "« avoir la classe » signifie avoir de l’allure ; « ne me fais pas dire » refuse qu’on déforme ses propos. « есть класс » et « не перевирай мои слова » gardent ces deux idées.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 110,
+      "speaker": "Khal",
+      "french": "C’est normal quand même que ça fasse envie de faire envie, non ? Mais c’est toujours aux filles de faire des efforts.",
+      "russian": "Нормально ведь, что хочется вызывать желание, правда? Но всегда девчонкам приходится стараться.",
+      "note": "« ça fasse envie de faire envie » joue sur le désir de susciter le désir. « хочется вызывать желание » rend ce double mouvement.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 111,
+      "speaker": "Gwen",
+      "french": "Eux, les pieds qui puent et les cheveux fillasse, ça ne les gêne pas. Trois pétouilles d’efforts au début et après… Ma mère, à chaque fois qu’elle a un nouveau copain, c’est le même scénario. Moi j’y vois trop clair pour y tomber.  N’empêche que ça fait peur de se tromper. Et Stan, il n’est pas mieux que les autres. Bon, il est sympa, je ne peux pas dire. Et depuis le début. Non, c’est vrai, il est gentil. Et puis il peut être drôle aussi. Là forcément ça ne se voyait pas, mais des fois, si, il peut être drôle. C’est ce qui m’a plu chez lui. Les mecs de ma mère, ils ne sont jamais drôles. Jamais. Je ne sais pas.",
+      "russian": "Их вонючие ноги и жидкие волосы их не смущают. Три жалких усилия в начале, а потом… У моей мамы каждый раз, когда новый парень, один и тот же сценарий. Я слишком хорошо всё вижу, чтобы попасться. И всё равно страшно ошибиться. И Стэн не лучше других. Ладно, он милый, не могу сказать. И с самого начала. Нет, правда, он добрый. И еще он может быть смешным. Сейчас, конечно, этого не было видно, но иногда — да, он может быть смешным. Это мне в нем и понравилось. Парни моей мамы никогда не бывают смешными. Никогда. Не знаю.",
+      "note": "« trois pétouilles d’efforts » désigne de tout petits efforts sans valeur ; « j’y vois trop clair » signifie qu’elle croit comprendre le piège. « три жалких усилия » et « слишком хорошо всё вижу » gardent l’amertume.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 112,
+      "speaker": "Khal",
+      "french": "C’est peut-être l’âge.",
+      "russian": "Может, возраст.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 113,
+      "speaker": "Gwen",
+      "french": "Moi je voudrais le bon, direct. Toi tu dis que non.",
+      "russian": "Я бы хотела сразу правильного. А ты говоришь — нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 114,
+      "speaker": "Khal",
+      "french": "Non, ça marche pas comme ça. Il faut en essayer plein avant.",
+      "russian": "Нет, так не бывает. Сначала надо перепробовать многих.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 115,
+      "speaker": "Gwen",
+      "french": "Mais ma mère, quand je vois qu’elle essaie encore, je ne sais pas… Le cousin de Richard, je me demande s’il est drôle.",
+      "russian": "Но когда я вижу, что моя мать всё еще пробует, я не знаю… Интересно, двоюродный брат Ришара смешной?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 116,
+      "speaker": "",
+      "french": "Stan en avant scène en hauteur: ",
+      "russian": "Стэн на авансцене, наверху:",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 117,
+      "speaker": "Stan",
+      "french": "Gwen, on dirait pas comme ça, hein ? On lui donnerait le Bon Dieu sans confession, pas vrai ? Eh bien, que je vais vous dire un truc, vous le répétez pas,  que ce qu’on donne à Gwen, on n’est jamais sûr de le récupérer. Voilà, c’est dit. Tant pis. Fallait pas me chercher. Elle va l’avoir, la note. Sous le nez. Et elle va trouver le moyen de me la régler. Normal, non ? Quand on a des dettes. Si elle croit pouvoir m’emberlificoter, jusqu’à l’éternité… Moi je la connais trop bien. C’est pour ça qu’elle s’acharne. Parce que moi, elle pense que je vais me laisser faire. Mais ce qu’elle ne sait pas, c’est que j’en ai assez. Je vais aller lui parler. Il faut que je lui parle. Je vais lui dire. Je vais lui demander. Lui demander de… Non, rien, je ne vais rien demander. Juste lui dire. Normal, non ?",
+      "russian": "Гвен — по ней и не скажешь, да? Ей бы поверили без единой клятвы, правда? Так вот, я вам кое-что скажу, только не повторяйте: что дают Гвен, никогда не ясно, вернет ли она. Вот, сказано. Плевать. Не надо было меня задевать. Она получит счет. Прямо под нос. И найдет способ мне его оплатить. Нормально, нет? Когда есть долги. Если она думает, что сможет водить меня вокруг пальца до бесконечности… Я ее слишком хорошо знаю. Поэтому она и давит. Потому что думает, что я позволю. Но чего она не знает — мне надоело. Я пойду с ней поговорю. Надо с ней поговорить. Я ей скажу. Я попрошу ее. Попрошу… Нет, ничего, ничего просить не буду. Просто скажу. Нормально, нет?",
+      "note": "« donner le Bon Dieu sans confession » signifie croire quelqu’un parfaitement innocent ; « emberlificoter » veut dire embrouiller ou tromper par des paroles. « поверили без единой клятвы » et « водить вокруг пальца » rendent ces images.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 118,
+      "speaker": "",
+      "french": "MUSIQUE, ils changent de place, entrent et sortent",
+      "russian": "МУЗЫКА, они меняются местами, входят и выходят.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 119,
+      "speaker": "",
+      "french": "3 – Acapulco ou Honolulu",
+      "russian": "3 – Акапулько или Гонолулу",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 120,
+      "speaker": "",
+      "french": "Liz, Vay, Tom, Ria, Gwen",
+      "russian": "Лиз, Вэй, Том, Рия, Гвен",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 121,
+      "speaker": "Vay qui a retiré son casque (comme si c’était à elle de jouer)",
+      "french": "Le cousin de Richard, vous voyez ?",
+      "russian": "Двоюродный брат Ришара, понимаете?",
+      "note": "« vous voyez ? » est la version plurielle/polie de « tu vois ? », un appel complice au groupe. « понимаете? » garde la relance orale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 122,
+      "speaker": "Liz",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 123,
+      "speaker": "Vay",
+      "french": "Vous voyez qui ?",
+      "russian": "Понимаете, кто?",
+      "note": "« Vous voyez qui ? » vérifie que le groupe identifie bien le cousin. « Понимаете, кто? » garde la répétition.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 124,
+      "speaker": "Ria",
+      "french": "Qui tape le costard ?",
+      "russian": "Который носит костюм?",
+      "note": "« taper le costard » est une formule familière pour porter un costume, en se donnant une allure. « носит костюм » donne le sens de cette mise en scène sociale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 125,
+      "speaker": "Vay",
+      "french": "Oui, il va emmener sa copine à Acapulco.",
+      "russian": "Да, он повезет свою девушку в Акапулько.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 126,
+      "speaker": "Tom",
+      "french": "C’est où ça ?",
+      "russian": "Это где?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 127,
+      "speaker": "Vay",
+      "french": "Ou à Honolulu, je ne sais plus.",
+      "russian": "Или в Гонолулу, уже не помню.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 128,
+      "speaker": "Tom",
+      "french": "Connais pas.",
+      "russian": "Не знаю такого.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 129,
+      "speaker": "Ria",
+      "french": "Moi non plus.",
+      "russian": "Я тоже.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 130,
+      "speaker": "Liz",
+      "french": "C’est Richard qui te l’a dit ?",
+      "russian": "Это Ришар тебе сказал?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 131,
+      "speaker": "Tom",
+      "french": "C’est au Brésil, non ?",
+      "russian": "Это в Бразилии, нет?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 132,
+      "speaker": "Ria",
+      "french": "Acapulco ou Honolulu ?",
+      "russian": "Акапулько или Гонолулу?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 133,
+      "speaker": "Vay",
+      "french": "Acapulco.",
+      "russian": "Акапулько.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 134,
+      "speaker": "Liz",
+      "french": "Tu viens de dire Honolulu.",
+      "russian": "Ты только что сказала Гонолулу.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 135,
+      "speaker": "Vay",
+      "french": "Mais non, je t’ai dit que je ne savais plus.",
+      "russian": "Да нет, я сказала, что уже не помню.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 136,
+      "speaker": "Ria",
+      "french": "Alors c’est peut-être là-bas.",
+      "russian": "Значит, может, там.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 137,
+      "speaker": "Tom",
+      "french": "Ils vont boire des mojitos au bord de la piscine.",
+      "russian": "Они будут пить мохито у бассейна.",
+      "note": "« mojitos au bord de la piscine » évoque un cliché de vacances luxueuses et exotiques. « мохито у бассейна » garde cette image de carte postale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 138,
+      "speaker": "Liz",
+      "french": "La chance !",
+      "russian": "Везет!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 139,
+      "speaker": "Vay",
+      "french": "Hmmm",
+      "russian": "Ммм.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 140,
+      "speaker": "Liz",
+      "french": "La mère de sa copine, elle accepte de la laisser partir ?",
+      "russian": "А мать его девушки согласна отпустить ее?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 141,
+      "speaker": "Vay / Gwen",
+      "french": "Avec un mec plein aux as comme lui, elle ne risque rien. Qu’est-ce que tu veux qu’il lui arrive ?",
+      "russian": "С таким набитым деньгами парнем, как он, ей ничего не грозит. Что с ней может случиться?",
+      "note": "« plein aux as » signifie très riche, littéralement rempli d’argent. « набитым деньгами » garde l’image familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 142,
+      "speaker": "Liz",
+      "french": "Moi, ma mère, elle ne voudrait jamais. Je ne peux rien faire de toute façon. Elle dirait que c’est trop loin.",
+      "russian": "Моя мама никогда бы не согласилась. Мне всё равно ничего нельзя. Она сказала бы, что это слишком далеко.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 143,
+      "speaker": "Tom",
+      "french": "De quoi ? Acapulco ou Honolulu ?",
+      "russian": "Что? Акапулько или Гонолулу?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 144,
+      "speaker": "Liz",
+      "french": "C’est toujours loin. Déjà elle ne veut pas que je dorme chez Raph alors qu’on habite à 500 mètres.",
+      "russian": "Это всегда далеко. Она даже не хочет, чтобы я ночевала у Рафа, хотя мы живем в пятистах метрах.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 145,
+      "speaker": "Tom",
+      "french": "Pourtant il est déjà bien riche, Raph.",
+      "russian": "Хотя Раф уже довольно богат.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 146,
+      "speaker": "Liz",
+      "french": "Elle trouve qu’on est trop jeunes.",
+      "russian": "Она считает, что мы слишком молодые.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 147,
+      "speaker": "Vay /Gwen",
+      "french": "C’est vrai que le cousin de Richard, il est quand même plus âgé. Il ne doit pas demander à ses parents pour partir au Brésil.",
+      "russian": "Правда, двоюродный брат Ришара все-таки старше. Ему, наверное, не надо спрашивать родителей, чтобы уехать в Бразилию.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 148,
+      "speaker": "Ria",
+      "french": "Et elle, elle a notre âge ?",
+      "russian": "А она нашего возраста?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 149,
+      "speaker": "Vay /Tom",
+      "french": "Elle, ça ne doit pas être pareil. Elle ne doit pas avoir de parents qui s’occupent d’elle. Est-ce qu’elle a seulement un père ?",
+      "russian": "С ней, наверное, не так. У нее, наверное, нет родителей, которые о ней заботятся. У нее вообще есть отец?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 150,
+      "speaker": "Liz",
+      "french": "Et sa mère ? Je suis sure qu’elle a une tronche d’alcoolique !",
+      "russian": "А мать? Уверена, у нее физиономия алкоголички!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 151,
+      "speaker": "Vay",
+      "french": "Je la plains.",
+      "russian": "Мне ее жалко.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 152,
+      "speaker": "Tom",
+      "french": "Moi aussi, je la plains.",
+      "russian": "Мне тоже ее жалко.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 153,
+      "speaker": "Ria",
+      "french": "Une pauvre fille",
+      "russian": "Бедная девчонка.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 154,
+      "speaker": "Vay",
+      "french": "Je n’aimerais pas être elle.",
+      "russian": "Я бы не хотела быть ею.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 155,
+      "speaker": "Liz",
+      "french": "Moi non plus. Je n’aimerais pas être elle.",
+      "russian": "Я тоже. Я бы не хотела быть ею.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 156,
+      "speaker": "Gwen",
+      "french": "Moi, j’aimerais bien être elle",
+      "russian": "А я бы хотела быть ею.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 157,
+      "speaker": "Tom",
+      "french": "Pas moi, je préfère être moi. De loin",
+      "russian": "А я нет, я предпочитаю быть собой. Намного.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 158,
+      "speaker": "",
+      "french": "Vay, Ria, Liz, Tom, Raph",
+      "russian": "Вэй, Рия, Лиз, Том, Раф",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 159,
+      "speaker": "Vay",
+      "french": "N’empêche, ça fait un peu conte de fées…",
+      "russian": "И всё-таки это немного сказка…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 160,
+      "speaker": "Ria",
+      "french": "Moi, niveau conte de fées, ce serait plutôt Cendrillon… Avant le bal. Parce que le prince…",
+      "russian": "У меня со сказкой скорее была бы Золушка… До бала. Потому что принц…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 161,
+      "speaker": "",
+      "french": "Tom revient et commence à réparer son vélo. ",
+      "russian": "Том возвращается и начинает чинить свой велосипед.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 162,
+      "speaker": "Liz",
+      "french": "Vay, ça va toujours avec ta belle-mère ?",
+      "russian": "Вэй, с мачехой всё еще нормально?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 163,
+      "speaker": "Moon",
+      "french": "Toujours le grand amour avec elle ?",
+      "russian": "По-прежнему большая любовь с ней?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 164,
+      "speaker": "Tom",
+      "french": "Oui, comment elle va ta Grosse Pizza ?",
+      "russian": "Да, как там твоя Большая Пицца?",
+      "note": "« Grosse Pizza » est un sobriquet cruel qui réduit la belle-mère à son corps. « Большая Пицца » garde la moquerie enfantine.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 165,
+      "speaker": "Raph",
+      "french": "Elle est toujours là ? T’as pas réussi à t’en débarrasser ?",
+      "russian": "Она всё еще там? Не смогла от нее избавиться?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 166,
+      "speaker": "",
+      "french": "Ils rient",
+      "russian": "Они смеются.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 167,
+      "speaker": "Vay",
+      "french": "Mais la belle-mère,  Oui, elle est là, et bien là, partout, dans chaque pièce, dans la cuisine, dans la salle de bains, dans le salon, même dans ma chambre. Elle occupe tout l’espace. C’est infernal. Elle ne s’occupe de rien. Toujours moi qui fais tout. Mon père dit que j’exagère, mais je vois bien qu’il étouffe aussi. Dans ma chambre, elle fouille, je le sais, j’ai des preuves, et à mon père, elle ment,",
+      "russian": "А мачеха — да, она там, и еще как, везде, в каждой комнате, на кухне, в ванной, в гостиной, даже у меня в комнате. Она занимает всё пространство. Это ад. Сама ничем не занимается. Всегда я всё делаю. Отец говорит, что я преувеличиваю, но я же вижу, что он тоже задыхается. В моей комнате она роется, я знаю, у меня есть доказательства, а отцу она врет,",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 168,
+      "speaker": "",
+      "french": "-Mais là tu n’as pas de preuves. ",
+      "russian": "- Но тут у тебя нет доказательств.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 169,
+      "speaker": "Vay",
+      "french": "Moi, c’est sûr, elle n’y verrait rien à redire que j’aille avec le cousin de Richard à l’autre bout du monde.",
+      "russian": "Уверена, она была бы совсем не против, если бы я уехала с двоюродным братом Ришара на другой конец света.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 170,
+      "speaker": "",
+      "french": "-« Bye bye little Va-Vay ! ». Elle t’appelle toujours comme ça, « little Va-Vay » ?. ",
+      "russian": "- «Bye bye little Va-Vay!». Она всё еще так тебя называет, «little Va-Vay»?.",
+      "note": "« Bye bye little Va-Vay » mêle anglais affecté et diminutif infantilisant. la reprise anglaise garde le ton condescendant.",
+      "kind": "stage"
+    },
+    {
+      "id": 171,
+      "speaker": "Vay",
+      "french": "Je suis plus grande qu’elle ! Ça a l’air d’un petit nom gentil, comme ça, vu de loin. Mais c’est méprisant, humiliant.",
+      "russian": "Я выше ее! Издалека это вроде милое прозвище. Но оно презрительное, унизительное.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 172,
+      "speaker": "",
+      "french": "-Toi, tu l’appelles « grosse pizza ». ",
+      "russian": "- Ты ее называешь «толстая пицца».",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 173,
+      "speaker": "Vay",
+      "french": "Enfin derrière. Derrière son dos, je veux dire ! Parce que c’est surtout de dos qu’elle parait la plus grosse.",
+      "russian": "Ну, за спиной. В смысле, за ее спиной! Потому что именно со спины она кажется самой толстой.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 174,
+      "speaker": "",
+      "french": "-Des fois, elle t’achète des trucs. ",
+      "russian": "- Иногда она покупает тебе всякие штуки.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 175,
+      "speaker": "Vay",
+      "french": "Pour se faire pardonner. Les trucs, moi je les prends et je les revends. Moi, je ne lui donne jamais rien. A Noël, à son anniv, rien. Elle peut toujours sourire.",
+      "russian": "Чтобы выпросить прощение. Штуки я беру и перепродаю. А я ей никогда ничего не дарю. На Рождество, на день рождения — ничего. Пусть себе улыбается.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 176,
+      "speaker": "",
+      "french": "-Ça doit lui pincer le cœur. ",
+      "russian": "- Ей, наверное, больно в сердце.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 177,
+      "speaker": "Vay",
+      "french": "Et alors ? Mon père, il est prêt à la quitter. Je le sens. Il est mûr. Mais il a peur de se retrouver tout seul.",
+      "russian": "И что? Мой отец готов ее бросить. Я чувствую. Он созрел. Но боится остаться один.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 178,
+      "speaker": "",
+      "french": "-Faudrait que tu lui présentes la mère de Gwen ! ",
+      "russian": "- Надо познакомить его с матерью Гвен!",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 179,
+      "speaker": "",
+      "french": "-Et avec l’argent que t’as récupéré des cadeaux de grosse pizza, tu les envoie à Acapulco boire des mojitos. ",
+      "russian": "- А на деньги, которые ты выручила от подарков толстой пиццы, отправишь их в Акапулько пить мохито.",
+      "note": "les « mojitos » reviennent comme cliché de luxe à Acapulco. « пить мохито » conserve ce symbole de vacances rêvées.",
+      "kind": "stage"
+    },
+    {
+      "id": 180,
+      "speaker": "",
+      "french": "-Quand ils reviennent, ils sont tout love-love et grosse pizza, au placard. ",
+      "russian": "- Когда вернутся, они будут вся любовь-любовь, а толстую пиццу — в шкаф.",
+      "note": "« au placard » veut dire mise à l’écart, éliminée du jeu familial. « в шкаф » garde l’image de relégation.",
+      "kind": "stage"
+    },
+    {
+      "id": 181,
+      "speaker": "",
+      "french": "-Voilà comment on fait le ménage ! ",
+      "russian": "- Вот как наводят порядок!",
+      "note": "« faire le ménage » signifie ici se débarrasser de ce qui gêne, pas seulement nettoyer. « наводят порядок » garde le double sens.",
+      "kind": "stage"
+    },
+    {
+      "id": 182,
+      "speaker": "Vay",
+      "french": "C’est fatigant, les parents.",
+      "russian": "Родители — это утомительно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 183,
+      "speaker": "",
+      "french": "4 - Arrestation",
+      "russian": "4 - Арест",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 184,
+      "speaker": "",
+      "french": "Tom, Raph, Liz, Khal",
+      "russian": "Том, Раф, Лиз, Каль",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 185,
+      "speaker": "Tom",
+      "french": "Le cousin de Richard, tu vois ?",
+      "russian": "Двоюродный брат Ришара, понимаешь?",
+      "note": "« tu vois ? » est encore le tic oral qui lance la rumeur. « понимаешь? » conserve cette entrée familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 186,
+      "speaker": "Raph",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 187,
+      "speaker": "Tom",
+      "french": "Tu vois qui ?",
+      "russian": "Понимаешь, кто?",
+      "note": "« Tu vois qui ? » installe le rituel de reconnaissance du cousin. « Понимаешь, кто? » garde la répétition.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 188,
+      "speaker": "Raph",
+      "french": "Qui emmène sa copine à Acapulco ?",
+      "russian": "Который везет свою девушку в Акапулько?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 189,
+      "speaker": "Tom",
+      "french": "Oui. Il parait qu’il s’est fait arrêter.",
+      "russian": "Да. Говорят, его арестовали.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 190,
+      "speaker": "Liz",
+      "french": "C’est vrai ?",
+      "russian": "Правда?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 191,
+      "speaker": "Tom",
+      "french": "Je viens de croiser Ria et Vay.",
+      "russian": "Я только что встретил Рию и Вэй.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 192,
+      "speaker": "Raph",
+      "french": "C’est dommage. Ça marchait bien pour lui.",
+      "russian": "Жалко. У него всё так хорошо шло.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 193,
+      "speaker": "Liz",
+      "french": "Ça sentait le moisi, le pas très net, moi je le dis.",
+      "russian": "Попахивало плесенью, чем-то мутным, я же говорю.",
+      "note": "« ça sentait le moisi » signifie que l’affaire paraissait louche, pas seulement qu’elle sentait mauvais. « попахивало плесенью, чем-то мутным » garde l’image et le soupçon.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 194,
+      "speaker": "Khal",
+      "french": "On n’a que ce qu’on mérite, au fond.",
+      "russian": "В глубине души, каждый получает по заслугам.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 195,
+      "speaker": "Tom",
+      "french": "Il est en garde-à-vue.",
+      "russian": "Он под стражей.",
+      "note": "« garde-à-vue » désigne la retenue par la police pendant l’enquête. « под стражей » rend le statut judiciaire.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 196,
+      "speaker": "Khal",
+      "french": "Il va aller en taule ?",
+      "russian": "Его посадят?",
+      "note": "« taule » est de l’argot pour la prison. « посадят » garde le registre direct et familier.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 197,
+      "speaker": "Raph",
+      "french": "Parait qu’il vendait des fausses alarmes à des vieilles, ou un truc du genre. A moins que ce ne soit des adoucisseurs d’eau ou des agendas électroniques pour les aider à retrouver la peau douce et la mémoire. Je ne sais plus bien…",
+      "russian": "Говорят, он продавал старушкам фальшивые сигнализации или что-то в этом роде. Или, может, умягчители воды, или электронные ежедневники, чтобы вернуть им нежную кожу и память. Я уже плохо помню…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 198,
+      "speaker": "Tom",
+      "french": "Moi, j’avais plutôt entendu dire qu’il dealait. Et qu’il emballait de la pâte à modeler marron dans de l’alu pour la vendre à des gamins au prix du shit.",
+      "russian": "А я скорее слышал, что он барыжил. Заворачивал коричневый пластилин в фольгу и продавал детям по цене гашиша.",
+      "note": "« dealait » signifie vendait de la drogue ; « shit » désigne familièrement le cannabis/haschisch. « барыжил » et « гашиш » rendent l’argot.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 199,
+      "speaker": "Liz",
+      "french": "Trop banal. A tous les coups il est devenu passeur.",
+      "russian": "Слишком банально. Сто пудов он стал перевозчиком.",
+      "note": "« à tous les coups » veut dire très probablement ; « passeur » désigne quelqu’un qui fait passer clandestinement des personnes. « сто пудов » et « перевозчик » gardent le sens.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 200,
+      "speaker": "Tom",
+      "french": "Passeur ? Impossible.",
+      "russian": "Перевозчиком? Невозможно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 201,
+      "speaker": "Liz",
+      "french": "Je vous le dis depuis de début. Il sent la charogne, ce type. Il passe des clandestins à Calais. Vers l’Angleterre. Un permis et le voilà riche à souhait. Ça ne vous interpelle pas, vous ?",
+      "russian": "Я вам с самого начала говорю. От этого типа несет падалью. Он переправляет нелегалов в Кале. В Англию. Получил права — и вот он богат сколько хочешь. Вас это не настораживает?",
+      "note": "« clandestins » désigne des migrants sans papiers ; « ça interpelle » signifie que cela devrait faire réfléchir. « нелегалы » et « настораживает » rendent ces nuances.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 202,
+      "speaker": "Tom",
+      "french": "Il les emmène dans sa Verbeira avec des phares à diodes laser plus ?",
+      "russian": "Он везет их в своей Вербейре с фарами на лазерных диодах плюс?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 203,
+      "speaker": "Liz",
+      "french": "Bonne couverture, non ? Le luxe, ça rassure tout le monde. Tu vois, avec l’argent, c’est comme ça, plus tu en as, plus on t’en donne.",
+      "russian": "Хорошее прикрытие, нет? Роскошь всех успокаивает. Видишь, с деньгами так: чем больше у тебя есть, тем больше тебе дают.",
+      "note": "« couverture » est une façade qui cache une activité illégale ; « Tu vois » relance l’explication. « прикрытие » et « Видишь » gardent le raisonnement.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 204,
+      "speaker": "Tom",
+      "french": "Dans le coffre de sa Verbeira ?",
+      "russian": "В багажнике своей Вербейры?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 205,
+      "speaker": "Liz",
+      "french": "A mon avis, il y en a un qui est mort.",
+      "russian": "По-моему, один там умер.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 206,
+      "speaker": "Tom, Raph, Khal",
+      "french": "….",
+      "russian": "….",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 207,
+      "speaker": "Liz",
+      "french": "Ben quoi ?",
+      "russian": "Ну что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 208,
+      "speaker": "Raph",
+      "french": "Mais c’est grave !",
+      "russian": "Но это серьезно!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 209,
+      "speaker": "Liz",
+      "french": "Je ne sais pas… De quoi ? Faire passer des cland’ ou leur tirer de l’argent ?",
+      "russian": "Не знаю… Что? Переправлять нелегалов или выманивать у них деньги?",
+      "note": "« cland’ » abrège familièrement « clandestins » ; « tirer de l’argent » signifie soutirer de l’argent. « нелегалов » et « выманивать деньги » explicitent le sens.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 210,
+      "speaker": "Khal",
+      "french": "C’est de l’argent sale.",
+      "russian": "Это грязные деньги.",
+      "note": "« argent sale » désigne de l’argent issu d’une activité immorale ou illégale. « грязные деньги » garde l’expression équivalente.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 211,
+      "speaker": "Raph",
+      "french": "Super sale, même.",
+      "russian": "Даже супергрязные.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 212,
+      "speaker": "Liz",
+      "french": "Parce qu’il vient de loin ?",
+      "russian": "Потому что они издалека?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 213,
+      "speaker": "Khal",
+      "french": "C’est un sale mec.",
+      "russian": "Он грязный тип.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 214,
+      "speaker": "Tom",
+      "french": "Je préfère encore être mécano et réglo.",
+      "russian": "Я лучше уж буду механиком и честным.",
+      "note": "« réglo » est familier pour honnête, correct, dans les règles. « честным » rend cette droiture.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 215,
+      "speaker": "Liz",
+      "french": "C’est moins risqué, c’est sûr.",
+      "russian": "Это менее рискованно, это точно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 216,
+      "speaker": "Raph",
+      "french": "Mais tu gagnes moins.",
+      "russian": "Зато зарабатываешь меньше.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 217,
+      "speaker": "Tom",
+      "french": "Mais tu perds moins.",
+      "russian": "Зато теряешь меньше.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 218,
+      "speaker": "Raph",
+      "french": "En même temps, avant qu’il y ait un mort, grâce à Richard, il y en a plein qui sont passés !",
+      "russian": "С другой стороны, до того как кто-то умер, благодаря Ришару многие прошли!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 219,
+      "speaker": "Liz",
+      "french": "Tu aides quelqu’un ou tu l’arnaques. Tu fais forcément un choix. Tu n’aides pas quelqu’un en l’arnaquant. C’est de la mauvaise foi.",
+      "russian": "Ты либо помогаешь человеку, либо обманываешь его. Ты в любом случае делаешь выбор. Нельзя помогать человеку, обманывая его. Это недобросовестно.",
+      "note": "« mauvaise foi » signifie argumenter en sachant qu’on tord la vérité. « недобросовестно » rend cette malhonnêteté intellectuelle.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 220,
+      "speaker": "Khal/Tom",
+      "french": "Mais nous on a foi en quoi ? On ne fait rien, ni de bien ni de mal, on ne fait rien.",
+      "russian": "А мы во что верим? Мы ничего не делаем — ни хорошего, ни плохого, ничего.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 221,
+      "speaker": "",
+      "french": "Monologue Tom",
+      "russian": "Монолог Тома",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 222,
+      "speaker": "Tom",
+      "french": "Façon, c’est simple. Ils peuvent dire ce qu’ils veulent. Maintenant ça m’est égal. Moi, la mécanique, j’ai toujours aimé. Je voulais rien dire. C’est sorti tout seul. Mes mots. Ils sortent toujours tout seuls. C’est pour ça que ça ne va pas. A l’école je veux dire. Je n’ai jamais le temps de les mettre dans le bon ordre alors ils sortent n’importe comment. En mécanique on doit trouver les bonnes pièces. Pas les bons mots. C’est ça qui est bien. Je vais en parler à M. Vergraef, il va me prendre. En apprentissage, je veux dire. Ria, pour elle, les mots c’est facile. Elle fait des jeux de mots, même. Moi, une fois que j’en vois une de Verbeira je suis déjà content, même si elle n’est pas à moi. Je suis content pour les autres. Mais quand même, je n’aimerais pas que le cousin de Richard se pointe au garage avec sa Verbeira. Je ne saurais pas quoi dire. Et puis les phares à diodes laser plus, je ne saurais pas les réparer. En même temps, maintenant qu’il a été arrêté, ça ne risque plus. Mécano, ce n’est pas larbin. J’ai bien vu, Ria, elle pense comme moi. Que mécano, c’est pas larbin. Façon, c’est simple, Raph, lui, il ne sait pas être content pour les autres. Jamais. C’est drôle, hein ? Moi je préfère aider qu’arnaquer. Le cousin de Richard, c’est l’inverse. Demain je vais voir M. Vergraef.",
+      "russian": "Короче, всё просто. Пусть говорят что хотят. Теперь мне всё равно. Механику я всегда любил. Не хотел ничего говорить. Само вырвалось. Мои слова. Они всегда сами вырываются. Поэтому всё не ладится. В школе, я имею в виду. Я никогда не успеваю поставить их в правильном порядке, и они выходят как попало. В механике надо находить правильные детали. Не правильные слова. Вот что хорошо. Я поговорю с господином Верграфом, он меня возьмет. В ученики, я имею в виду. Для Рии слова — это легко. Она даже каламбуры делает. А я, стоит мне увидеть хоть одну Вербейру, уже рад, даже если она не моя. Я рад за других. Но всё же не хотел бы, чтобы двоюродный брат Ришара заявился в гараж со своей Вербейрой. Я бы не знал, что сказать. И фары на лазерных диодах плюс я бы не сумел починить. С другой стороны, теперь, когда его арестовали, этого уже не случится. Механик — это не холуй. Я видел, Рия думает как я. Что механик — не холуй. Короче, всё просто: Раф не умеет радоваться за других. Никогда. Забавно, да? Я предпочитаю помогать, а не обманывать. У двоюродного брата Ришара наоборот. Завтра пойду к господину Верграфу.",
+      "note": "« façon » abrège oralement « de toute façon » ; « se pointe » veut dire arrive familièrement ; « larbin » reste l’insulte sociale. « короче », « заявился » et « холуй » gardent l’oralité.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 223,
+      "speaker": "",
+      "french": "MUSIQUE – Temps où ils bougent sans parler. ",
+      "russian": "МУЗЫКА – Время, когда они двигаются молча.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 224,
+      "speaker": "",
+      "french": "5 - Gigolo",
+      "russian": "5 - Жиголо",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 225,
+      "speaker": "",
+      "french": "Moon, Stan, Liz, Ria, Gwen",
+      "russian": "Мун, Стэн, Лиз, Рия, Гвен",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 226,
+      "speaker": "Moon",
+      "french": "Le cousin de Richard, tu vois ?",
+      "russian": "Двоюродный брат Ришара, понимаешь?",
+      "note": "« tu vois ? » ouvre encore une rumeur sur le cousin de Richard. « понимаешь? » garde la formule de connivence.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 227,
+      "speaker": "Stan",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 228,
+      "speaker": "Moon",
+      "french": "Tu vois qui ?",
+      "russian": "Понимаешь, кто?",
+      "note": "« Tu vois qui ? » répète le mécanisme de reconnaissance. « Понимаешь, кто? » garde ce refrain oral.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 229,
+      "speaker": "Stan",
+      "french": "Qui s’est fait arrêter ?",
+      "russian": "Которого арестовали?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 230,
+      "speaker": "Moon",
+      "french": "Oui, il serait gigolo.",
+      "russian": "Да, он, похоже, жиголо.",
+      "note": "« gigolo » désigne un homme entretenu par des femmes, souvent plus âgées ou riches. « жиголо » garde l’emprunt et la connotation morale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 231,
+      "speaker": "Liz",
+      "french": "Non !",
+      "russian": "Да ладно!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 232,
+      "speaker": "Moon",
+      "french": "Promis !",
+      "russian": "Клянусь!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 233,
+      "speaker": "Liz",
+      "french": "Alors ?",
+      "russian": "И что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 234,
+      "speaker": "Moon",
+      "french": "Alors, ils l’ont relâché. Il a le droit.",
+      "russian": "А то, что его отпустили. Он имеет право.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 235,
+      "speaker": "Stan",
+      "french": "Tout s’explique ! La Verbeira, c’est juste le cadeau d’une vieille peau. Je vous le disais, aucune morale !",
+      "russian": "Всё объясняется! Вербейра — просто подарок от старой кошелки. Я же говорил, никакой морали!",
+      "note": "« vieille peau » est une insulte sexiste et âgiste pour une vieille femme. « старая кошелка » rend le mépris.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 236,
+      "speaker": "Liz",
+      "french": "Et toi ?",
+      "russian": "А ты?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 237,
+      "speaker": "Stan",
+      "french": "Quoi moi ?",
+      "russian": "Что я?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 238,
+      "speaker": "Moon",
+      "french": "Qui nous dit que tu ne le ferais pas, si tu pouvais ?",
+      "russian": "Кто сказал, что ты бы так не сделал, если бы мог?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 239,
+      "speaker": "Stan",
+      "french": "Tu me crois capable de… ?",
+      "russian": "Ты думаешь, я способен на…?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 240,
+      "speaker": "Ria",
+      "french": "Non justement. Mais si tu étais capable, alors, oui, je me demande.",
+      "russian": "Вот именно, нет. Но если бы был способен, тогда да, я бы задумалась.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 241,
+      "speaker": "Stan",
+      "french": "Mais je suis capable.",
+      "russian": "Но я способен.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 242,
+      "speaker": "Ria",
+      "french": "Tu viens de dire que non.",
+      "russian": "Ты только что сказал, что нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 243,
+      "speaker": "Liz",
+      "french": "Tu n’y arrives déjà pas avec Gwen alors…",
+      "russian": "Ты уже с Гвен не справляешься, так что…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 244,
+      "speaker": "Stan",
+      "french": "Rien à voir.",
+      "russian": "Это вообще другое.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 245,
+      "speaker": "Liz",
+      "french": "Ben quand même. Plus elles sont riches, plus elles sont exigeantes. Et Gwen, elle n’est pas très riche.",
+      "russian": "Ну всё-таки. Чем они богаче, тем требовательнее. А Гвен не очень богата.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 246,
+      "speaker": "Gwen",
+      "french": "Pas encore, mais plus tard, je serai riche.",
+      "russian": "Пока нет, но потом я буду богатой.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 247,
+      "speaker": "Stan",
+      "french": "Parce que tu ne m’as jamais vu en smoking. L’air d’un prince !",
+      "russian": "Потому что ты никогда не видела меня в смокинге. Вид принца!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 248,
+      "speaker": "Gwen",
+      "french": "Stan, les princes charmants, c’est fini. Maintenant il faut de l’expérience. Des références.",
+      "russian": "Стэн, прекрасные принцы закончились. Теперь нужен опыт. Рекомендации.",
+      "note": "« prince charmant » renvoie au héros amoureux des contes, ici déclaré dépassé. « прекрасные принцы » garde la référence au conte.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 249,
+      "speaker": "Stan",
+      "french": "Le cousin de Richard, c’est juste qu’il est plus vieux. Moi aussi dans quelques années…",
+      "russian": "Двоюродный брат Ришара просто старше. Я тоже через несколько лет…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 250,
+      "speaker": "Liz",
+      "french": "Ah ! Tu vois…",
+      "russian": "Ага! Вот видишь…",
+      "note": "« Tu vois… » sert à faire avouer à Stan qu’il se contredit. « Вот видишь… » rend cette petite victoire argumentative.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 251,
+      "speaker": "Stan",
+      "french": "Mais moi, faudrait vraiment que je sois dans le besoin, la nécessité absolue… Lui, c’est juste pour frimer, pour son plaisir. C’est répugnant… Une vieille peau…. Berk….Il me dégoûte, ce type.",
+      "russian": "Но мне для этого надо было бы правда нуждаться, крайняя необходимость… А он — просто чтобы выпендриться, ради удовольствия. Отвратительно… Старая кошелка… Фу… Меня тошнит от этого типа.",
+      "note": "« dans le besoin » signifie en grande nécessité ; « frimer » exhiber sa réussite ; « vieille peau » insulte une femme âgée ; « Berk » exprime le dégoût. « нуждаться », « выпендриться », « старая кошелка » et « фу » rendent ces registres.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 252,
+      "speaker": "Moon",
+      "french": "Moi je te dégoûte ?",
+      "russian": "Я тебя тоже тошню?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 253,
+      "speaker": "Stan",
+      "french": "Pourquoi tu dis ça ?",
+      "russian": "Почему ты так говоришь?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 254,
+      "speaker": "Moon",
+      "french": "Je l’ai déjà fait.",
+      "russian": "Я уже это делала.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 255,
+      "speaker": "Liz",
+      "french": "Elle te nargue.",
+      "russian": "Она тебя дразнит.",
+      "note": "« narguer » signifie provoquer quelqu’un en le défiant ou en le piquant. « дразнит » garde cette provocation.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 256,
+      "speaker": "Moon",
+      "french": "Non. C’est vrai. Je l’ai déjà fait.",
+      "russian": "Нет. Это правда. Я уже это делала.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 257,
+      "speaker": "Stan et Liz",
+      "french": "Je ne te crois pas.",
+      "russian": "Не верю.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 258,
+      "speaker": "Moon",
+      "french": "Une seule fois.",
+      "russian": "Один-единственный раз.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 259,
+      "speaker": "Stan",
+      "french": "Avec qui ? Pourquoi ?",
+      "russian": "С кем? Почему?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 260,
+      "speaker": "Moon",
+      "french": "Je ne sais plus.",
+      "russian": "Уже не помню.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 261,
+      "speaker": "",
+      "french": "Moon va se mettre plus loin en hauteur. Un temps long.",
+      "russian": "Мун уходит дальше, наверх. Долгая пауза.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 262,
+      "speaker": "Liz",
+      "french": "Alors ça n’existe plus.",
+      "russian": "Тогда этого больше не существует.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 263,
+      "speaker": "",
+      "french": "Liz, Gwen et Ria",
+      "russian": "Лиз, Гвен и Рия",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 264,
+      "speaker": "Liz",
+      "french": "Faut pas la croire, Moon. C’est de la provoc. Parce que Stan, il nous énerve. Tous les gars, d’ailleurs. A dire que le cousin de Richard est un gigolo. Qu’est-ce qu’ils en savent ? Ils sont jaloux, c’est tout. Surtout Stan, parce que sa Gwen, elle lorgne dessus.",
+      "russian": "Не верь ей, Мун. Это провокация. Потому что Стэн нас бесит. Все парни, кстати. Говорят, что двоюродный брат Ришара — жиголо. Что они знают? Они просто завидуют. Особенно Стэн, потому что его Гвен на него заглядывается.",
+      "note": "« provoc » abrège « provocation » ; « lorgne dessus » signifie désirer discrètement. « провокация » et « заглядывается » rendent l’idée.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 265,
+      "speaker": "Ria/Gwen",
+      "french": "Faut pas la croire, Moon. C’est de la provoc. Elle en est incapable. On se connait depuis la maternelle. Je suis sûre que jamais elle…. Elle n’a même jamais eu un vrai copain. Le cousin de Richard, lui, faut reconnaitre qu’il est spécialiste. Il y a d’autres filles, aussi, je ne peux pas dire le contraire. Kim, par exemple, il faut avouer que… Mais on peut bien être amoureux de quelqu’un de riche aussi ?",
+      "russian": "Не верь ей, Мун. Это провокация. Она на такое не способна. Мы знаем друг друга с детского сада. Уверена, она никогда… У нее даже настоящего парня никогда не было. Двоюродный брат Ришара, надо признать, специалист. Есть и другие девчонки, тоже, не могу сказать обратное. Ким, например, надо признать, что… Но ведь можно же влюбиться и в богатого человека?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 266,
+      "speaker": "Liz",
+      "french": "Ce n’est pas un crime. Moi, ça ne me dérangerait pas. Mais pour autant je n’irais pas avec des vieux, même riches. Faut pas la croire, Moon. C’est de la provoc. Et puis elle n’a pas été élevée comme ça. Enfin, je ne sais pas, moi, mais ça se voit.",
+      "russian": "Это не преступление. Меня бы это не смутило. Но при этом я бы не пошла со стариками, даже богатыми. Не верь ей, Мун. Это провокация. И потом, ее не так воспитали. Ну, не знаю, но это видно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 267,
+      "speaker": "Ria",
+      "french": "Faut pas la croire, Moon. C’est de la provoc. Dans le cou, là, elle a la peau super douce. Avec les petites mèches dessus, c’est trop mignon. Parfois j’ai envie de l’embrasser à cet endroit comme ça, parce que c’est tentant, tout simplement. Mais je n’ose pas. Je ne sais pas comment elle le prendrait. Faut pas la croire, Moon. C’est de la provoc. Je n’ose pas. Mais il faudrait. J’en ai tellement envie. Moi, il ne m’a jamais trop rien dit, le cousin de Richard. Il m’aurait dit oui que j’aurais dit non. Déjà avant.",
+      "russian": "Не верь ей, Мун. Это провокация. Вот на шее у нее кожа супернежная. С маленькими прядками сверху — это так мило. Иногда мне хочется поцеловать ее в это место, просто так, потому что тянет. Но я не решаюсь. Не знаю, как она это воспримет. Не верь ей, Мун. Это провокация. Я не решаюсь. А надо бы. Мне так хочется. Двоюродный брат Ришара никогда мне особенно ничего не говорил. Сказал бы он мне «да» — я бы сказала «нет». Уже тогда.",
+      "note": "« il ne m’a jamais trop rien dit » veut dire qu’il ne l’a jamais vraiment attirée. « никогда мне особенно ничего не говорил » garde l’euphémisme.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 268,
+      "speaker": "Liz/Gwen",
+      "french": "Vous croyez que c’est vrai pour Moon ?",
+      "russian": "Думаете, это правда про Мун?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 269,
+      "speaker": "",
+      "french": "6 - Disparition",
+      "russian": "6 - Исчезновение",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 270,
+      "speaker": "",
+      "french": "Tom, Raph, Khal, Vay",
+      "russian": "Том, Раф, Каль, Вэй",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 271,
+      "speaker": "Tom",
+      "french": "Le cousin de Richard, tu vois ?",
+      "russian": "Двоюродный брат Ришара, понимаешь?",
+      "note": "« tu vois ? » continue le refrain oral autour du cousin. « понимаешь? » garde le tic de langage.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 272,
+      "speaker": "Raph",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 273,
+      "speaker": "Tom",
+      "french": "Tu vois qui ?",
+      "russian": "Понимаешь, кто?",
+      "note": "« Tu vois qui ? » demande encore de situer le personnage. « Понимаешь, кто? » conserve le rituel.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 274,
+      "speaker": "Raph",
+      "french": "Qui est gigolo ?",
+      "russian": "Который жиголо?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 275,
+      "speaker": "Tom",
+      "french": "Oui. On ne le retrouve plus.",
+      "russian": "Да. Его больше не могут найти.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 276,
+      "speaker": "Khal",
+      "french": "Comment ça ?",
+      "russian": "Как это?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 277,
+      "speaker": "Tom",
+      "french": "Disparu.",
+      "russian": "Исчез.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 278,
+      "speaker": "Vay",
+      "french": "Il est parti ?",
+      "russian": "Он уехал?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 279,
+      "speaker": "Tom",
+      "french": "Aucune trace. Rien. Personne. Personne de prévenu.",
+      "russian": "Ни следа. Ничего. Никого. Никого не предупредил.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 280,
+      "speaker": "Raph",
+      "french": "Comment on l’a su ?",
+      "russian": "Как мы узнали?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 281,
+      "speaker": "Tom",
+      "french": "Richard. J’imagine.",
+      "russian": "Ришар. Наверное.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 282,
+      "speaker": "Khal",
+      "french": "Il doit être dans un état !",
+      "russian": "Он, наверное, в ужасном состоянии!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 283,
+      "speaker": "Tom",
+      "french": "Moi, Richard, je le trouve fuyant en ce moment.",
+      "russian": "По-моему, Ришар в последнее время какой-то уклончивый.",
+      "note": "« fuyant » décrit quelqu’un qui évite les autres ou les questions. « уклончивый » garde cette esquive.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 284,
+      "speaker": "Raph",
+      "french": "Pas moi.",
+      "russian": "По-моему, нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 285,
+      "speaker": "Vay",
+      "french": "Qu’est-ce que tu en sais ? Tu le connais à peine.",
+      "russian": "Откуда ты знаешь? Ты его едва знаешь.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 286,
+      "speaker": "Raph",
+      "french": "Possible. Que oui, que non.",
+      "russian": "Возможно. И да, и нет.",
+      "note": "« Que oui, que non » est une réponse volontairement évasive. « И да, и нет » garde l’ambiguïté.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 287,
+      "speaker": "Tom",
+      "french": "Qu’est-ce que tu veux dire ? Vas-y, sois plus clair.",
+      "russian": "Что ты хочешь сказать? Давай, говори яснее.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 288,
+      "speaker": "Raph",
+      "french": "Ca me regarde.",
+      "russian": "Это мое дело.",
+      "note": "« ça me regarde » signifie que cela ne concerne que moi. « это мое дело » rend la fermeture.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 289,
+      "speaker": "Khal",
+      "french": "Richard, il a prévenu la police ?",
+      "russian": "Ришар заявил в полицию?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 290,
+      "speaker": "Raph",
+      "french": "Ce n’est pas à lui de le faire.",
+      "russian": "Не ему это делать.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 291,
+      "speaker": "Vay",
+      "french": "Pourquoi pas ? Pourquoi pas lui ?",
+      "russian": "Почему нет? Почему не ему?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 292,
+      "speaker": "Tom",
+      "french": "Moi je suis sûre que Richard sait où il se cache.",
+      "russian": "Я уверена, Ришар знает, где он прячется.",
+      "note": "« se cache » peut vouloir dire se planquer volontairement, pas seulement être introuvable. « прячется » garde l’idée de dissimulation.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 293,
+      "speaker": "Khal",
+      "french": "Il se cache ou il a disparu ? S’il savait quelque chose, il ne le dirait pas que son cousin a disparu.",
+      "russian": "Он прячется или исчез? Если бы он что-то знал, он бы не говорил, что его кузен исчез.",
+      "note": "« il se cache ou il a disparu ? » oppose la fuite volontaire à la disparition subie. « прячется или исчез? » garde cette nuance.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 294,
+      "speaker": "Raph",
+      "french": "Pour se rendre intéressant.",
+      "russian": "Чтобы привлечь к себе внимание.",
+      "note": "« se rendre intéressant » signifie attirer l’attention sur soi, souvent artificiellement. « привлечь к себе внимание » rend le reproche.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 295,
+      "speaker": "Tom",
+      "french": "Ce n’est pas son genre.",
+      "russian": "Это не в его стиле.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 296,
+      "speaker": "Raph",
+      "french": "Parfaitement son genre. Richard, qu’est-ce qu’il est sans son cousin ? Rien sans le cousin.",
+      "russian": "Именно в его стиле. Ришар — кто он без своего кузена? Ничто без кузена.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 297,
+      "speaker": "Khal",
+      "french": "Il a peut-être plus de personnalité que vous ne le croyez.",
+      "russian": "Может, у него больше личности, чем вы думаете.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 298,
+      "speaker": "Tom",
+      "french": "Peut-être qu’il a été kidnappé ?",
+      "russian": "Может, его похитили?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 299,
+      "speaker": "Vay",
+      "french": "La police le recherche au moins ?",
+      "russian": "Полиция хотя бы его ищет?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 300,
+      "speaker": "Tom",
+      "french": "Un coup on lui demande de le relâcher, un coup on lui demande de le rechercher, elle doit en avoir marre, la police, du cousin de Richard. S’il était resté au trou, au moins il y serait toujours.",
+      "russian": "То их просят отпустить его, то искать его — полиции, наверное, уже надоел двоюродный брат Ришара. Если бы он остался в кутузке, он бы там хотя бы всё еще был.",
+      "note": "« au trou » est familier pour en prison ou en cellule. « в кутузке » garde l’argot.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 301,
+      "speaker": "Khal",
+      "french": "Tom !",
+      "russian": "Том!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 302,
+      "speaker": "Tom",
+      "french": "Ben quoi ? C’est vrai ! Vous croyez que ce sont des clandestins qui sont venus le chercher ?",
+      "russian": "Ну что? Это правда! Думаете, это нелегалы пришли за ним?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 303,
+      "speaker": "Vay",
+      "french": "Pour venger celui qui est mort ?",
+      "russian": "Чтобы отомстить за того, кто умер?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 304,
+      "speaker": "Khal",
+      "french": "Qu’est-ce qu’il en dit, Richard ?",
+      "russian": "Что говорит Ришар?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 305,
+      "speaker": "Tom",
+      "french": "Je ne sais pas. Ça fait un bail que je ne l’ai pas vu.",
+      "russian": "Не знаю. Я его сто лет не видел.",
+      "note": "« ça fait un bail » signifie que cela fait longtemps. « сто лет не видел » rend l’hyperbole familière.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 306,
+      "speaker": "Khal",
+      "french": "Et toi ?",
+      "russian": "А ты?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 307,
+      "speaker": "Raph",
+      "french": "Pareil.",
+      "russian": "То же самое.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 308,
+      "speaker": "Tom",
+      "french": "Quand je vous dis qu’il est fuyant.",
+      "russian": "Вот я и говорю, он уклончивый.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 309,
+      "speaker": "",
+      "french": "Khal/Gwen/Stan",
+      "russian": "Каль/Гвен/Стэн",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 310,
+      "speaker": "Khal",
+      "french": "Moi aussi je vais disparaître. Rien à faire de ce Richard, de son cousin. Je ne les connais même pas de toute façon. Rien à faire. Je vais partir. Il faut que je parte. Ils me déçoivent, tous. Encore que. Non. Ils ne me déçoivent même pas. Ils m’ennuient. Tout simplement.",
+      "russian": "Я тоже исчезну. Плевать мне на этого Ришара, на его кузена. Я их даже не знаю, в конце концов. Плевать. Я уеду. Мне надо уехать. Они все меня разочаровывают. Хотя нет. Даже не разочаровывают. Они мне надоели. Просто.",
+      "note": "« rien à faire » veut dire ici « je m’en fiche complètement ». « плевать » garde la lassitude et le rejet.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 311,
+      "speaker": "Gwen",
+      "french": "Je m’ennuie tellement ici.",
+      "russian": "Мне здесь так скучно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 312,
+      "speaker": "Stan",
+      "french": "Moi je fais semblant, toujours semblant. Semblant de m’intéresser. Semblant de discuter. Mais moi, au moins je sais pourquoi je fais semblant.  Moi je fais semblant parce que c’est sordide d’être toute seule.",
+      "russian": "Я притворяюсь, всегда притворяюсь. Притворяюсь, что мне интересно. Притворяюсь, что разговариваю. Но я, по крайней мере, знаю, почему притворяюсь. Я притворяюсь, потому что быть совсем одной — мерзко.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 313,
+      "speaker": "Khal",
+      "french": "Rien à faire. Cette histoire du cousin de Richard, c’est une grotesque goutte d’eau. Je me sens comme un poisson rouge dans un bocal avec un chat qui guette.",
+      "russian": "Плевать. Эта история с двоюродным братом Ришара — гротескная последняя капля. Я чувствую себя как золотая рыбка в аквариуме, за которым следит кот.",
+      "note": "« goutte d’eau » renvoie à la dernière goutte qui fait déborder le vase ; « poisson rouge dans un bocal » exprime l’enfermement sous surveillance. « последняя капля » et « золотая рыбка в аквариуме » gardent ces images.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 314,
+      "speaker": "Tous",
+      "french": "Il faut que je parte.",
+      "russian": "Мне надо уехать.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 315,
+      "speaker": "Khal",
+      "french": "Je vais demander à Ria de le dire à mes parents. Quand je serai partie. Pas le choix. Qu’ils ne s’imaginent pas que moi aussi j’ai disparu. Et qu’on n’imagine pas non plus que j’ai disparu avec le cousin de Richard ! Ils vont avoir peur pour moi. Il faut les comprendre. Ils n’ont qu’une fille. Moi. Alors ça compte. Mais j’enverrai des nouvelles. Souvent. Pour les rassurer. C’est dur de partir. Leur peur, la mienne, tout ça, ça fait beaucoup. Je vais lui laisser un petit mot, à Ria, gai, enthousiaste. Pour tout expliquer. A moins qu’elle parte avec moi. Je peux toujours lui demander. A deux, c’est quand même mieux.",
+      "russian": "Я попрошу Рию сказать это моим родителям. Когда я уеду. Другого выхода нет. Чтобы они не подумали, что я тоже исчезла. И чтобы никто тоже не подумал, что я исчезла с двоюродным братом Ришара! Они будут за меня бояться. Их надо понять. У них одна дочь. Я. Значит, это важно. Но я буду посылать новости. Часто. Чтобы успокоить. Уезжать трудно. Их страх, мой страх — всего слишком много. Я оставлю Рии записку, веселую, восторженную. Чтобы всё объяснить. Если только она не уедет со мной. Я всегда могу попросить. Вдвоем всё-таки лучше.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 316,
+      "speaker": "",
+      "french": "7 - Vengeance",
+      "russian": "7 - Месть",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 317,
+      "speaker": "",
+      "french": "Tous ",
+      "russian": "Все",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 318,
+      "speaker": "",
+      "french": "Ria est un peu à l’écart ou ira s’isoler pendant leur conversation",
+      "russian": "Рия немного в стороне или уединится во время их разговора.",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 319,
+      "speaker": "Moon",
+      "french": "Le cousin de Richard, tu vois ?",
+      "russian": "Двоюродный брат Ришара, понимаешь?",
+      "note": "« tu vois ? » relance une dernière fois la rumeur collective. « понимаешь? » conserve la formule orale.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 320,
+      "speaker": "Tom",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 321,
+      "speaker": "Moon",
+      "french": "Tu vois qui ?",
+      "russian": "Понимаешь, кто?",
+      "note": "« Tu vois qui ? » poursuit le refrain d’identification. « Понимаешь, кто? » garde la mécanique répétitive.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 322,
+      "speaker": "Raph",
+      "french": "Qui a disparu ?",
+      "russian": "Который исчез?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 323,
+      "speaker": "Moon",
+      "french": "Oui, Jérome.",
+      "russian": "Да, Жером.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 324,
+      "speaker": "Vay",
+      "french": "Pas Jérome, Joël.",
+      "russian": "Не Жером, Жоэль.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 325,
+      "speaker": "Stan",
+      "french": "Tu parles bien du gigolo ?",
+      "russian": "Ты точно про жиголо?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 326,
+      "speaker": "Moon",
+      "french": "Oui.",
+      "russian": "Да.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 327,
+      "speaker": "Stan",
+      "french": "C’est Marco.",
+      "russian": "Это Марко.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 328,
+      "speaker": "Khal",
+      "french": "Moi, Richard m’a toujours dit que c’était Christophe.",
+      "russian": "Мне Ришар всегда говорил, что это Кристоф.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 329,
+      "speaker": "Gwen",
+      "french": "Faudra qu’on redemande à Richard.",
+      "russian": "Надо будет еще раз спросить у Ришара.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 330,
+      "speaker": "Vay",
+      "french": "On ne l’a pas vu au réveillon ?",
+      "russian": "Мы его не видели на новогодней вечеринке?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 331,
+      "speaker": "Moon",
+      "french": "Qui ? Le cousin ?",
+      "russian": "Кого? Кузена?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 332,
+      "speaker": "Liz",
+      "french": "Richard. Son cousin, je ne le reconnaitrais pas.",
+      "russian": "Ришара. Его кузена я бы не узнала.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 333,
+      "speaker": "Khal",
+      "french": "C’est vrai ?",
+      "russian": "Правда?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 334,
+      "speaker": "Liz",
+      "french": "Je ne l’ai vu qu’une fois à un anniversaire.",
+      "russian": "Я видела его только раз на дне рождения.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 335,
+      "speaker": "Moon",
+      "french": "Et en plus tu confonds Jérome et Joël. Pas les mêmes.",
+      "russian": "И к тому же ты путаешь Жерома и Жоэля. Не одно и то же.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 336,
+      "speaker": "Gwen",
+      "french": "Parce que toi, tu le connais bien ?",
+      "russian": "А ты, значит, хорошо его знаешь?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 337,
+      "speaker": "Moon",
+      "french": "Quand même. Il arrive quelque part, tu ne peux pas le rater. Super grand, mince, tout roux et des yeux verts.",
+      "russian": "Всё-таки. Он приходит куда-нибудь — его невозможно не заметить. Супервысокий, худой, весь рыжий и зеленые глаза.",
+      "note": "« tu ne peux pas le rater » signifie qu’il est impossible de ne pas le remarquer. « невозможно не заметить » rend l’évidence visuelle.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 338,
+      "speaker": "Stan",
+      "french": "Les yeux verts, d’accord, mais sinon il est brun avec la peau mate. Pas du tout une peau de roux.",
+      "russian": "Зеленые глаза — ладно, но вообще он брюнет со смуглой кожей. Совсем не кожа рыжего.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 339,
+      "speaker": "Vay",
+      "french": "Tu peux bien être roux et avoir la peau mate, non ?",
+      "russian": "Можно же быть рыжим и смуглым, нет?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 340,
+      "speaker": "Gwen",
+      "french": "Non.",
+      "russian": "Нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 341,
+      "speaker": "Moon",
+      "french": "Ben non.",
+      "russian": "Ну нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 342,
+      "speaker": "Raph",
+      "french": "Ah bon. Il est petit en tout cas, ça j’en suis presque sûre. Et il a les yeux vairons, pas verts. C’est quand même assez remarquable pour le remarquer !",
+      "russian": "А, правда? Во всяком случае, он маленький, в этом я почти уверена. И глаза у него разноцветные, не зеленые. Это всё-таки достаточно заметно, чтобы заметить!",
+      "note": "« yeux vairons » désigne des yeux de couleurs différentes ; la phrase joue sur « remarquable/remarquer ». « разноцветные глаза » et « заметно/заметить » gardent le jeu.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 343,
+      "speaker": "Moon",
+      "french": "Oublie. Tu te trompes de cousin.",
+      "russian": "Забудь. Ты ошиблась кузеном.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 344,
+      "speaker": "Tom",
+      "french": "Ce qui est certain, c’est qu’on parle bien de celui qui fait du surf à Honolulu.",
+      "russian": "Точно одно: мы говорим о том, кто занимается серфингом в Гонолулу.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 345,
+      "speaker": "Vay",
+      "french": "Et qui est sorti avec la mère de Gwen.",
+      "russian": "И кто встречался с матерью Гвен.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 346,
+      "speaker": "Raph",
+      "french": "Et aussi Mme Duchâteau !",
+      "russian": "И еще с мадам Дюшато!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 347,
+      "speaker": "Liz",
+      "french": "On parle bien du même.",
+      "russian": "Мы точно говорим об одном и том же.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 348,
+      "speaker": "Vay",
+      "french": "C’est ce qui compte.",
+      "russian": "Это главное.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 349,
+      "speaker": "Raph",
+      "french": "Qui a pu s’acheter un 4X4 Verbeira décapotable le jour de son permis.",
+      "russian": "Который смог купить кабриолет 4X4 Вербейра в день получения прав.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 350,
+      "speaker": "Stan",
+      "french": "Oui, au prix d’une vie. Mais une petite vie. Seulement une petite vie de clandestin…",
+      "russian": "Да, ценой жизни. Но маленькой жизни. Всего лишь маленькой жизни нелегала…",
+      "note": "« une petite vie de clandestin » est une formule cynique qui minimise une vie humaine. « маленькой жизни нелегала » conserve cette violence.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 351,
+      "speaker": "Khal",
+      "french": "Rigole mais moi, une crapule pareille, ça ne me dit rien.",
+      "russian": "Смейся, но мне такая мразь совсем не нравится.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 352,
+      "speaker": "Vay",
+      "french": "Moi non plus. Il peut se le garder, Richard, son escroc de cousin.",
+      "russian": "Мне тоже. Пусть Ришар оставит себе своего кузена-мошенника.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 353,
+      "speaker": "Moon",
+      "french": "On pourrait taguer des trucs sur sa voiture.",
+      "russian": "Можно написать что-нибудь на его машине.",
+      "note": "« taguer » signifie écrire ou peindre à la bombe sur un support. « написать что-нибудь на машине » explicite l’acte.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 354,
+      "speaker": "Liz",
+      "french": "Du genre ?",
+      "russian": "Типа?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 355,
+      "speaker": "Moon",
+      "french": "Du genre « Marco, salaud » !",
+      "russian": "Типа «Марко, подонок»!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 356,
+      "speaker": "Raph",
+      "french": "Ça manque de classe. Et puis il ne s’appelle plus Marco ?",
+      "russian": "Не хватает класса. И потом, его уже не Марко зовут?",
+      "note": "« ça manque de classe » signifie que ce n’est pas assez élégant ou stylé. « не хватает класса » garde le jugement esthétique.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 357,
+      "speaker": "Vay",
+      "french": "Il a changé d’identité ?",
+      "russian": "Он сменил личность?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 358,
+      "speaker": "Stan",
+      "french": "Ça lui ressemble.",
+      "russian": "На него похоже.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 359,
+      "speaker": "Gwen",
+      "french": "Pour ça qu’on s’y perd.",
+      "russian": "Вот почему мы путаемся.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 360,
+      "speaker": "Moon",
+      "french": "« Théophile, pédophile » !",
+      "russian": "«Теофиль — педофил»!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 361,
+      "speaker": "Tom",
+      "french": "Qu’est-ce qu’on en sait ? Après tout ce qu’il a fait ?",
+      "russian": "Откуда нам знать? После всего, что он сделал?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 362,
+      "speaker": "Raph",
+      "french": "Pédophile c’est plutôt un truc de vieux.",
+      "russian": "Педофил — это скорее что-то про стариков.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 363,
+      "speaker": "Liz",
+      "french": "« Sale rapace, gros dégueulasse ».",
+      "russian": "«Грязная падаль, жирная гадость».",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 364,
+      "speaker": "Moon",
+      "french": "Pas mal. Et puis comme, même s’il s’appelle Théophile, on est bons… Mais c’est quand même dommage d’abimer une Verbeira, non ?",
+      "russian": "Неплохо. И если его даже зовут Теофиль, мы всё равно попали… Но всё-таки жалко портить Вербейру, нет?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 365,
+      "speaker": "Vay",
+      "french": "Tu trouves qu’il la mérite ?",
+      "russian": "Ты считаешь, он ее заслуживает?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 366,
+      "speaker": "Stan",
+      "french": "Le problème c’est que, s’il a disparu, il ne les verra pas, les tags sur sa voiture.",
+      "russian": "Проблема в том, что если он исчез, он их не увидит, эти надписи на своей машине.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 367,
+      "speaker": "Vay",
+      "french": "Et si c’est Richard qui la récupère, on aura tagué la voiture de Richard.",
+      "russian": "А если ее заберет Ришар, мы изрисуем машину Ришара.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 368,
+      "speaker": "Gwen",
+      "french": "Ça serait laid de la part de Richard de prendre la voiture de son cousin. Il n’est pas mort quand même.",
+      "russian": "Было бы низко со стороны Ришара взять машину своего кузена. Он же не умер.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 369,
+      "speaker": "Khal",
+      "french": "Disparu, ce n’est pas mort.",
+      "russian": "Исчез — не значит умер.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 370,
+      "speaker": "Vay",
+      "french": "Mais ça peut.",
+      "russian": "Но может значить.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 371,
+      "speaker": "Gwen",
+      "french": "Ça peut des fois, mais pas toujours.",
+      "russian": "Иногда может, но не всегда.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 372,
+      "speaker": "Stan",
+      "french": "Mais Richard ne ferait jamais ça.",
+      "russian": "Но Ришар никогда бы так не сделал.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 373,
+      "speaker": "Gwen",
+      "french": "Tu plaisantes ? Prêt à tout, Richard, pour faire croire qu’il est riche. Pour qu’on le regarde, pour qu’on l’envie.",
+      "russian": "Шутишь? Ришар готов на всё, чтобы все думали, что он богат. Чтобы на него смотрели, чтобы ему завидовали.",
+      "note": "« pour qu’on l’envie » signifie chercher à susciter la jalousie et le désir social. « чтобы ему завидовали » rend cette logique de prestige.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 374,
+      "speaker": "Liz",
+      "french": "Mais on ne l’envierait pas.",
+      "russian": "Но мы бы ему не завидовали.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 375,
+      "speaker": "Moon",
+      "french": "Sûr que non.",
+      "russian": "Уж точно нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 376,
+      "speaker": "Raph",
+      "french": "Trop glauque.",
+      "russian": "Слишком мутно.",
+      "note": "« glauque » signifie malsain, sordide, moralement trouble. « мутно » garde cette impression obscure.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 377,
+      "speaker": "Vay",
+      "french": "On n’est pas comme ça.",
+      "russian": "Мы не такие.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 378,
+      "speaker": "Tom",
+      "french": "Non, on n’est pas comme ça.",
+      "russian": "Нет, мы не такие.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 379,
+      "speaker": "Khal",
+      "french": "Tu dis rien, Ria ?",
+      "russian": "Ты ничего не говоришь, Рия?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 380,
+      "speaker": "",
+      "french": "Ria",
+      "russian": "Рия",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 381,
+      "speaker": "Ria",
+      "french": "Non, je ne dis rien. Pourquoi ? Pourquoi je dirais quelque chose ? Je sais trop bien comment ça marche. Un mot de travers. Et c’est sur moi que ça retombe. Je le sais. Je le sens. Alors non. Je ne dis rien. Plus rien. Je n’ai plus rien à dire. Parce que je ne sais plus quoi penser. Je pense juste que Khal va s’en aller. Ça se voit. Elle ne nous supporte plus. C’est vrai. On devient cinglés. Avec cette histoire du cousin de Richard. Ou bien on l’était déjà. Tout se mélange. Les voix, les noms, les mots. Ce qu’on pense. Qu’on ne pense pas. Qu’on ne pense plus. Qu’on dit. Ou qu’on ne dit plus. Qu’on dit encore. Alors qu’on ne le pense plus. Moi non plus je ne nous supporte plus. On a l’air de quoi ? Khal ne doit pas s’en aller. C’est à ça que je pense. Pas sans moi en tout cas. Je n’ai pas envie de m’en aller. Je ne dois pas la laisser s’en aller. Je ne me supporte pas quand je dis ça. Mais je le dis. Quand même. Parce que je le pense. Je le pense si fort. Peut-être qu’elle va entendre. Que je ne veux pas. La laisser s’en aller. Elle n’imagine pas. Sûr. Sûr qu’elle ne m’imagine pas comme ça. Comme ça. « On n’est pas comme ça ». Comme quoi ? On a l’air de quoi ?",
+      "russian": "Нет, я ничего не говорю. Почему? Почему я должна что-то сказать? Я слишком хорошо знаю, как это работает. Одно неверное слово. И всё падает на меня. Я знаю. Я чувствую. Так что нет. Я ничего не говорю. Больше ничего. Мне больше нечего сказать. Потому что я уже не знаю, что думать. Я думаю только, что Каль уедет. Это видно. Она нас больше не выносит. Это правда. Мы сходим с ума. С этой историей двоюродного брата Ришара. Или уже сошли. Всё смешивается. Голоса, имена, слова. То, что думаешь. Что не думаешь. Что больше не думаешь. Что говоришь. Или больше не говоришь. Что всё еще говоришь. Хотя уже не думаешь. Я тоже больше нас не выношу. На что мы похожи? Каль не должна уезжать. Вот о чем я думаю. Во всяком случае не без меня. Я не хочу уезжать. Я не должна дать ей уехать. Я себя не выношу, когда говорю это. Но говорю. Всё равно. Потому что думаю. Думаю так сильно. Может, она услышит. Что я не хочу. Дать ей уехать. Она не представляет. Точно. Точно она не представляет меня такой. Такой. «Мы не такие». Какие? На что мы похожи?",
+      "note": "« un mot de travers » signifie une parole maladroite ou de trop qui se retourne contre soi. « одно неверное слово » rend le danger.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 382,
+      "speaker": "",
+      "french": "8 -  Annonce journal",
+      "russian": "8 - Объявление в газете",
+      "note": "",
+      "kind": "section"
+    },
+    {
+      "id": 383,
+      "speaker": "",
+      "french": "Raph, Gwen, Liz, Ria,Tom, Stan, Vay, Moon",
+      "russian": "Раф, Гвен, Лиз, Рия, Том, Стэн, Вэй, Мун",
+      "note": "",
+      "kind": "stage"
+    },
+    {
+      "id": 384,
+      "speaker": "Raph",
+      "french": "« Hier, vendredi 4 octobre, un accident de la route a coûté la vie à un jeune homme de 20 ans, Christophe Mandaël. Selon les premiers éléments de l’enquête de police, le véhicule de Christophe Mandaël aurait été percuté de plein fouet par un 4X4 Verbeira flambant neuf au km 145. Le chauffard, âgé d’environ 55 ans, considérablement alcoolisé, aurait circulé au milieu de la chaussée, à une vitesse excessive. Les pompiers et les médecins du SAMU ont tout essayé pour réanimer la victime qui est décédée sur les lieux de la collision. Christophe Mandaël allait, ce soir-là, chercher son cousin, Richard Mandaël pour fêter avec lui sa première embauche au garage Multimécanique. « Nous devions sortir au Paradise. Il m’avait toujours dit que, le jour où il toucherait son premier salaire, c’est là qu’on irait fêter ça » nous a confié le garçon effondré. A l’heure qu’il est, la police recherche activement le chauffard en fuite. La famille du défunt accueillera parents et amis au salon funéraire de Gouvernay de 15 heures à 18 heures. La cérémonie des obsèques se déroulera en l’église Notre Dame le 9 octobre à 15 heures ».",
+      "russian": "«Вчера, в пятницу 4 октября, дорожно-транспортное происшествие унесло жизнь молодого человека двадцати лет, Кристофа Мандаэля. По первым данным полицейского расследования, автомобиль Кристофа Мандаэля был протаранен в лоб совершенно новым 4X4 Вербейра на 145-м километре. Лихач, примерно пятидесяти пяти лет, в состоянии сильного алкогольного опьянения, ехал посередине проезжей части на чрезмерной скорости. Пожарные и врачи скорой помощи SAMU сделали всё, чтобы реанимировать пострадавшего, который скончался на месте столкновения. В тот вечер Кристоф Мандаэль ехал за своим двоюродным братом Ришаром Мандаэлем, чтобы отметить с ним его первое трудоустройство в гараже Multimécanique. «Мы должны были пойти в Paradise. Он всегда говорил мне, что в день, когда получит первую зарплату, именно туда мы пойдем это праздновать», — доверил нам убитый горем юноша. В настоящий момент полиция активно разыскивает скрывшегося лихача. Семья покойного будет принимать родственников и друзей в похоронном зале Гуверне с 15 до 18 часов. Церемония похорон состоится в церкви Нотр-Дам 9 октября в 15 часов».",
+      "note": "« chauffard » désigne un conducteur dangereux ; « SAMU » est le service médical d’urgence français. « лихач » et « скорая помощь SAMU » explicitent ces références.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 385,
+      "speaker": "Liz",
+      "french": "D’où ça sort ?",
+      "russian": "Откуда это?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 386,
+      "speaker": "Raph",
+      "french": "De son sac.",
+      "russian": "Из его сумки.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 387,
+      "speaker": "Stan",
+      "french": "Tu as fouillé le sac de Richard ?",
+      "russian": "Ты рылся в сумке Ришара?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 388,
+      "speaker": "Raph",
+      "french": "Je n’ai pas fouillé, j’ai juste vérifié.",
+      "russian": "Я не рылся, я просто проверял.",
+      "note": "« vérifier » est un euphémisme comique pour « fouiller ». « просто проверял » garde la mauvaise foi.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 389,
+      "speaker": "Vay",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 390,
+      "speaker": "Raph",
+      "french": "Si ce qu’il me devait s’y trouvait.",
+      "russian": "Не лежит ли там то, что он мне должен.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 391,
+      "speaker": "Gwen",
+      "french": "Ca date d’octobre ?",
+      "russian": "Это датировано октябрем?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 392,
+      "speaker": "Raph",
+      "french": "Octobre.",
+      "russian": "Октябрем.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 393,
+      "speaker": "Gwen, Liz, Tom, Ria, Khal, Vay,Stan",
+      "french": "…",
+      "russian": "…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 394,
+      "speaker": "Raph",
+      "french": "Trois mois.",
+      "russian": "Три месяца.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 395,
+      "speaker": "Ria",
+      "french": "Trois mois qu’il a été percuté par une Verbeira ?",
+      "russian": "Три месяца, как его сбила Вербейра?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 396,
+      "speaker": "Tom",
+      "french": "Trois mois que tu nous as dit qu’il s’était acheté une Verbeira.",
+      "russian": "Три месяца, как ты сказала нам, что он купил себе Вербейру.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 397,
+      "speaker": "Raph",
+      "french": "Ce n’est pas moi.",
+      "russian": "Это не я.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 398,
+      "speaker": "Liz",
+      "french": "Quoi, ce n’est pas toi ? Ce n’est pas toi qui nous l’as dit ?",
+      "russian": "Как это не ты? Не ты нам это сказала?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 399,
+      "speaker": "Raph",
+      "french": "J’ai juste dit ce que Moon m’a dit.",
+      "russian": "Я просто сказала то, что мне сказала Мун.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 400,
+      "speaker": "Ria",
+      "french": "Mais qui a dit à Moon ce que Moon t’a dit ?",
+      "russian": "Но кто сказал Мун то, что Мун сказала тебе?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 401,
+      "speaker": "Raph",
+      "french": "Je n’en sais rien qui a dit à Moon ce que Moon m’a dit… Richard ?",
+      "russian": "Не знаю я, кто сказал Мун то, что Мун сказала мне… Ришар?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 402,
+      "speaker": "Vay",
+      "french": "Trois mois qu’on ne le voit presque plus, Richard. Qu’on ne l’entend plus.",
+      "russian": "Три месяца мы почти не видим Ришара. Не слышим его.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 403,
+      "speaker": "Stan",
+      "french": "Depuis la mort de son cousin.",
+      "russian": "С тех пор как умер его кузен.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 404,
+      "speaker": "Khal",
+      "french": "Tu savais qu’il était mort, son cousin ?",
+      "russian": "Ты знала, что его кузен умер?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 405,
+      "speaker": "Moon",
+      "french": "Ben non.",
+      "russian": "Ну нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 406,
+      "speaker": "Liz",
+      "french": "Et toi ?",
+      "russian": "А ты?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 407,
+      "speaker": "Gwen",
+      "french": "Non plus.",
+      "russian": "Тоже нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 408,
+      "speaker": "Stan",
+      "french": "Il est secret, Richard.",
+      "russian": "Ришар скрытный.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 409,
+      "speaker": "Gwen",
+      "french": "Une tombe.",
+      "russian": "Могила.",
+      "note": "« une tombe » désigne quelqu’un qui garde parfaitement les secrets. « могила » garde l’image idiomatique.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 410,
+      "speaker": "Tom",
+      "french": "Une huitre.",
+      "russian": "Устрица.",
+      "note": "« une huître » désigne une personne fermée, peu communicative. « устрица » garde l’image de fermeture.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 411,
+      "speaker": "Ria",
+      "french": "Pourquoi il ne nous l’a pas dit ?",
+      "russian": "Почему он нам не сказал?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 412,
+      "speaker": "Tom",
+      "french": "Quoi ?",
+      "russian": "Что?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 413,
+      "speaker": "Ria",
+      "french": "Il y a trois mois.",
+      "russian": "Три месяца назад.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 414,
+      "speaker": "Raph",
+      "french": "Il a oublié.",
+      "russian": "Он забыл.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 415,
+      "speaker": "Liz",
+      "french": "Arrête !",
+      "russian": "Прекрати!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 416,
+      "speaker": "Vay",
+      "french": "Trop triste.",
+      "russian": "Слишком грустно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 417,
+      "speaker": "Gwen",
+      "french": "Accablé.",
+      "russian": "Раздавлен.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 418,
+      "speaker": "Stan",
+      "french": "Si on avait su, on aurait pu aller à l’enterrement.",
+      "russian": "Если бы мы знали, мы могли бы пойти на похороны.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 419,
+      "speaker": "Liz",
+      "french": "En même temps, on ne le connaissait pas.",
+      "russian": "С другой стороны, мы его не знали.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 420,
+      "speaker": "Khal",
+      "french": "Non ?",
+      "russian": "Нет?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 421,
+      "speaker": "Moon",
+      "french": "Ben non.",
+      "russian": "Ну нет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 422,
+      "speaker": "Ria",
+      "french": "Mais quand même, c’était son cousin.",
+      "russian": "Но всё-таки это был его кузен.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 423,
+      "speaker": "Raph",
+      "french": "C’est bizarre d’aller aux obsèques de quelqu’un qu’on ne connait pas.",
+      "russian": "Странно идти на похороны человека, которого не знаешь.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 424,
+      "speaker": "Gwen",
+      "french": "On aurait pu y aller pour Richard.",
+      "russian": "Мы могли бы пойти ради Ришара.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 425,
+      "speaker": "Vay",
+      "french": "Je ne sais pas si ça lui aurait fait tellement plaisir.",
+      "russian": "Не знаю, так ли ему было бы приятно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 426,
+      "speaker": "Tom",
+      "french": "On ne sait jamais bien avec lui.",
+      "russian": "С ним никогда толком не знаешь.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 427,
+      "speaker": "Vay",
+      "french": "Quand on voit tout ce qu’il raconte.",
+      "russian": "Если посмотреть на всё, что он рассказывает.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 428,
+      "speaker": "Gwen",
+      "french": "La copine à Honolulu. Les flics, les trafics.",
+      "russian": "Девушка в Гонолулу. Копы, махинации.",
+      "note": "« flics » est familier pour policiers ; « trafics » évoque des affaires illégales. « копы » et « махинации » gardent le registre.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 429,
+      "speaker": "Tom",
+      "french": "C’est lui ?",
+      "russian": "Это он?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 430,
+      "speaker": "Raph",
+      "french": "Et tout ce qu’il ne raconte pas.",
+      "russian": "И всё, что он не рассказывает.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 431,
+      "speaker": "Ria",
+      "french": "C’est ça surtout.",
+      "russian": "Вот именно это главное.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 432,
+      "speaker": "Moon",
+      "french": "S’il disait les choses telles qu’elles sont, ça éviterait de…",
+      "russian": "Если бы он говорил всё как есть, это позволило бы избежать…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 433,
+      "speaker": "Tom",
+      "french": "On dirait qu’il n’a pas tellement confiance en nous.",
+      "russian": "Такое чувство, что он нам не очень доверяет.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 434,
+      "speaker": "Liz",
+      "french": "Il a toujours été méfiant, Richard.",
+      "russian": "Ришар всегда был недоверчивым.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 435,
+      "speaker": "Gwen",
+      "french": "Toujours préféré ses cousins à ses copains.",
+      "russian": "Всегда предпочитал своих кузенов друзьям.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 436,
+      "speaker": "Khal",
+      "french": "Alors forcément…",
+      "russian": "Ну тогда, конечно…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 437,
+      "speaker": "Vay",
+      "french": "Ben oui forcément, on voit où ça mène…",
+      "russian": "Ну да, конечно, видим, к чему это приводит…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 438,
+      "speaker": "Liz",
+      "french": "Il va avoir honte maintenant vis-à-vis de nous.",
+      "russian": "Теперь ему будет стыдно перед нами.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 439,
+      "speaker": "Tom",
+      "french": "Imaginer son cousin gigolo ! Un cousin mort encore plus !",
+      "russian": "Представить своего кузена жиголо! А мертвого кузена тем более!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 440,
+      "speaker": "Stan",
+      "french": "Ca ce n’est pas lui, ça, c’est Moon !",
+      "russian": "Это не он, это Мун!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 441,
+      "speaker": "Moon",
+      "french": "Je n’ai rien inventé. C’est Ria qui me l’a dit.",
+      "russian": "Я ничего не выдумала. Это Рия мне сказала.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 442,
+      "speaker": "Gwen",
+      "french": "Ria ? Alors, faut pas s’étonner.",
+      "russian": "Рия? Тогда нечего удивляться.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 443,
+      "speaker": "Ria",
+      "french": "Ah ?",
+      "russian": "А?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 444,
+      "speaker": "Gwen",
+      "french": "Tu n’as jamais remarqué ?",
+      "russian": "Ты никогда не замечала?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 445,
+      "speaker": "Moon",
+      "french": "Tom oui, mais Ria…",
+      "russian": "Том да, но Рия…",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 446,
+      "speaker": "Khal",
+      "french": "Prête à tout pour se rendre intéressante.",
+      "russian": "На всё готова, лишь бы быть интересной.",
+      "note": "« se rendre intéressante » signifie attirer l’attention sur soi en dramatisant ou inventant. « быть интересной » garde le reproche.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 447,
+      "speaker": "Vay",
+      "french": "Pour attirer l’attention.",
+      "russian": "Чтобы привлечь внимание.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 448,
+      "speaker": "Liz",
+      "french": "Une imagination !",
+      "russian": "Воображение!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 449,
+      "speaker": "Liz",
+      "french": "Tom ou Ria ?",
+      "russian": "Том или Рия?",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 450,
+      "speaker": "Liz",
+      "french": "Les deux !",
+      "russian": "Оба!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 451,
+      "speaker": "Tom et Ria",
+      "french": "Hé ho ! On est là quand même !",
+      "russian": "Эй-эй! Мы вообще-то здесь!",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 452,
+      "speaker": "Raph",
+      "french": "Enfin, on n’est pas dupes !",
+      "russian": "В общем, нас не проведешь!",
+      "note": "« on n’est pas dupes » signifie qu’on ne se laisse pas tromper. « нас не проведешь » rend l’idiome.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 453,
+      "speaker": "Vay",
+      "french": "Vous avez quand même essayé de nous mener en bateau.",
+      "russian": "Вы всё-таки попытались водить нас за нос.",
+      "note": "« mener en bateau » signifie tromper quelqu’un, lui raconter des histoires. « водить нас за нос » est l’équivalent idiomatique.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 454,
+      "speaker": "Gwen",
+      "french": "Mais on n’est pas naïfs au point de croire tout ce qu’on nous dit.",
+      "russian": "Но мы не настолько наивны, чтобы верить всему, что нам говорят.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 455,
+      "speaker": "Liz",
+      "french": "On garde toujours un sens critique.",
+      "russian": "Мы всегда сохраняем критическое мышление.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 456,
+      "speaker": "Khal",
+      "french": "C’est important.",
+      "russian": "Это важно.",
+      "note": "",
+      "kind": "dialogue"
+    },
+    {
+      "id": 457,
+      "speaker": "Raph",
+      "french": "Capital.",
+      "russian": "Капитально.",
+      "note": "« capital » signifie ici essentiel, très important. « капитально » garde un écho lexical et une pointe d’emphase.",
+      "kind": "dialogue"
+    },
+    {
+      "id": 458,
+      "speaker": "",
+      "french": "FIN",
+      "russian": "КОНЕЦ",
+      "note": "",
+      "kind": "title"
+    }
+  ]
+}
